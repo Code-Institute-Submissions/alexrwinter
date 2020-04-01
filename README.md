@@ -26,3 +26,11 @@ The sections that follow will be:
 The menu bar will appear once the user has navigated beyond the landing page. It will be vertical, and will highlight which section of the website is being viewed as the user scrolls. This will give a sense of flow, logical progression and clarity to the page's contents. It will allow the user to be aware at all times of where they are on the page in relation to the other information.
 
 The colour scheme will be pale blue and neutrals. Blue is associated with calm, depth, stability and intelligence. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The employer choosing something represented by this colour will be choosing calm, clarity, professionalism. We want to communicate careful thought, precision, intelligence, approachability, and creativity.
+
+
+Resources:
+
+hover.css - buttons
+https://uigradients.com/ - background gradient
+Image by <a href="https://pixabay.com/users/OpenClipart-Vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2028515">OpenClipart-Vectors</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2028515">Pixabay</a>
+Image by OpenClipart-Vectors from Pixabay 

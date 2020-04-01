@@ -1,7 +1,110 @@
-.hero-image {
-    background: url("../images/soundwaves.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+/*colours*/
+
+/* text colour: #f9f9e2
+    light blue: #79a6c3
+    dark blue: #0b61aa */
+
+/*text styling*/
+.body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #f9f9e2;
+}
+
+.lead {
+    color: #f9f9e2;
+    font-family: 'Raleway', sans-serif;
+}
+
+.block-divider {
+    background-color: #f9f9e2;
+    width: 80px;
+}
+
+/*navbar*/
+.navbar-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+
+/*buttons and links*/
+
+.logo-text {
+    text-decoration: none;
+     font-family: 'Raleway', sans-serif;
+     color: #f9f9e2;
+}
+
+.logo-text:hover{
+    text-decoration: none;
+    color: #f9f9e2;
+    transition-duration: 0.5s;
+}
+
+
+.btn-contact {
+    background-color: #4385b7/*#79a6c3*/;
+    color: #f9f9e2;
+    border-radius: 50%;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-contact:hover,
+.btn-contact:active,
+.btn-contact:focus,
+.btn-contact:active:focus {
+    background-color: #f9f9e2;
+    color:#4385b7;
+    transition-duration: 0.3s;
+}
+
+.fa-imdb {
+    color:#4385b7 /* #f9f9e2*/;
+    font-size: 60px;
+}
+
+.fa-imdb:hover {
+    color: #f9f9e2;
+    transition-duration: 0.2s;
+}
+
+
+/*containers*/
+.soundwaves-container{
+    background: url("../images/Evening-Night-Half.jpg") no-repeat center right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    min-height: 360px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.homepage-container {
+     height: 100vh;
+}
+
+.about-container {
+    background-color: #4385b7;
+    color: #f9f9e2;
+    height: 60vh;
+}
+
+.menu-scrollspy {
+    text-align: right;
 }
