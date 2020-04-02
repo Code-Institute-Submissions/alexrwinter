@@ -7,6 +7,7 @@
 /*text styling*/
 .body {
     font-family: 'Montserrat', sans-serif;
+    position: relative;
 }
 
 h1 {
@@ -22,6 +23,7 @@ h1 {
 .block-divider {
     background-color: #f9f9e2;
     width: 80px;
+    height:2px;
 }
 
 /*navbar*/
@@ -38,22 +40,32 @@ h1 {
 
 /*buttons and links*/
 
-.logo-text {
+.alex-text {
     text-decoration: none;
      font-family: 'Raleway', sans-serif;
      color: #f9f9e2;
 }
 
-.logo-text:hover{
+.alex-text:hover{
     text-decoration: none;
-    color: #f9f9e2;
+    color: #4385b7;
     transition-duration: 0.5s;
 }
 
+.fa-imdb {
+    color:#f9f9e2 /* #f9f9e2*/;
+    font-size: 60px;
+}
+
+.fa-imdb:hover{
+    color: #4385b7;
+    transition-duration: 0.2s;
+}
 
 .btn-contact {
-    background-color: #4385b7/*#79a6c3*/;
-    color: #f9f9e2;
+    background-color: #f9f9e2;
+    color:#4385b7;
+    
     border-radius: 50%;
     padding-top: 34px;
     padding-bottom: 34px;
@@ -64,25 +76,14 @@ h1 {
 .btn-contact:active,
 .btn-contact:focus,
 .btn-contact:active:focus {
-    background-color: #f9f9e2;
-    color:#4385b7;
+    background-color: #4385b7;
+    color: #f9f9e2;
     transition-duration: 0.3s;
 }
 
-.fa-imdb {
-    color:#4385b7 /* #f9f9e2*/;
-    font-size: 60px;
-}
-
-.fa-imdb:hover {
-    color: #f9f9e2;
-    transition-duration: 0.2s;
-}
-
-
 /*containers*/
 .soundwaves-container{
-    background: url("../images/Evening-Night-Half.jpg") no-repeat center right fixed; 
+    background: url("../images/evening-night-bottom.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -99,12 +100,32 @@ h1 {
      height: 100vh;
 }
 
+.title-container {
+    padding-bottom: 70px;
+}
+
 .about-container {
     background-color: #4385b7;
     color: #f9f9e2;
+    font-family: 'Raleway', sans-serif;
     height: 60vh;
 }
 
-.menu-scrollspy {
-    text-align: right;
+.about-text {
+    padding: 80px;
+}
+
+/*scrollspy*/
+
+.scrollspy-wrapper {
+  /*  position: absolute; */
+  float: right;
+
+}
+
+.list-group-item {
+    font-style: 'Raleway', sans-serif;
+    color: #4385b7;
+    background-color: #f9f9e2;
+    text-align: left;
 }

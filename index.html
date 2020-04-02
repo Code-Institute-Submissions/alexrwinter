@@ -16,65 +16,62 @@
 </head>
 
 <body>
-	<div class="container-fluid navbar-container">
-		<nav class="navbar sticky" style="background-color: transparent">
-			<span><a class="logo-text" href="https://www.imdb.com/name/nm8237808/" target="_blank"><h3>Alex R Winter</h3></a></span>
-			<span style="font-size: 48px"><a class="imdb-brand" href="https://www.imdb.com/name/nm8237808/" target="_blank"><i class="fab fa-imdb"></i></a></span>
-		</nav>
-	</div>
 
-
-	<!-- Callout -->
-	<div class="container-fluid soundwaves-container homepage-container">
-		<div class="row">
-			<div class="col-12 text-center">
-				<h1>Post-Production Sound</h1>
-				<hr class="block-divider">
-				<p class="lead">Let me create the perfect sound for you</p>
-				<br>
-				<button type="button" class="btn btn-lg btn-contact">Contact</button>
-			</div>
-		</div>
-	</div>
-
-	<!--About-->
-	<div class="container-fluid about-container">
-		<div class="row">
-			<div class="col">
-				<p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-					et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum."</p>
-			</div>
+		<div class="container-fluid navbar-container">
+			<nav class="navbar" style="background-color: rgba(1,91,167,0.2)">
+				<span><a class="alex-text" href="https://www.imdb.com/name/nm8237808/" target="_blank"><h3>Alex R Winter</h3></a></span>
+				<span style="font-size: 48px"><a class="imdb-brand" href="https://www.imdb.com/name/nm8237808/" target="_blank"><i class="fab fa-imdb"></i></a></span>
+			</nav>
 		</div>
 
-		<div class="row">
-			<div class="col-sm-2">
-				<div id="scrollspy" class="list-group">
-					<a class="list-group-item list-group-item-action" href="#list-item-1">Home</a>
-					<a class="list-group-item list-group-item-action" href="#list-item-2">About</a>
-					<a class="list-group-item list-group-item-action" href="#list-item-3">Services</a>
-					<a class="list-group-item list-group-item-action" href="#list-item-4">Testimonials</a>
-					<a class="list-group-item list-group-item-action" href="#list-item-4">Projects</a>
-					<a class="list-group-item list-group-item-action" href="#list-item-4">Contact</a>
+    <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
+    
+		<!-- Landing Page -->
+		<div id="home" class="container-fluid soundwaves-container homepage-container">
+			<div class="row">
+				<div class="col-12 text-center title-container">
+					<h1>Post-Production Sound</h1>
+					<hr class="block-divider">
+					<p class="lead">Let me create the perfect sound for you</p>
+					<br>
+					<button type="button" class="btn btn-lg btn-contact">Contact</button>
 				</div>
 			</div>
 		</div>
-	</div>
 
+		<!--scrollspy-->
+		<div class="scrollspy-wrapper position-sticky">
+			<div class="row">
+				<div class="col-sm-2">
+					<div id="scrollspy" class="list-group">
+						<a class="list-group-item list-group-item-action"
+							href="#Home"><i class="fas fa-chevron-down"></i></a>
+						<a class="list-group-item list-group-item-action" href="#Home">Home</a>
+						<a class="list-group-item list-group-item-action" href="#About">About</a>
+						<a class="list-group-item list-group-item-action" href="#list-item-3">Services</a>
+						<a class="list-group-item list-group-item-action" href="#list-item-4">Testimonials</a>
+						<a class="list-group-item list-group-item-action" href="#list-item-4">Projects</a>
+						<a class="list-group-item list-group-item-action" href="#list-item-4">Contact</a>
+					</div>
+				</div>
+			</div>
+		</div>
 
-
-	<div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-		<h4 id="list-item-1">Item 1</h4>
-		<p>...</p>
-		<h4 id="list-item-2">Item 2</h4>
-		<p>...</p>
-		<h4 id="list-item-3">Item 3</h4>
-		<p>...</p>
-		<h4 id="list-item-4">Item 4</h4>
-		<p>...</p>
-	</div>
+		<!--About-->
+		<div id="About" class="container-fluid about-container">
+			<div class="row">
+				<div class="col-8 about-text">
+					<p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+						labore
+						et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+						ut
+						aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+						culpa qui officia deserunt mollit anim id est laborum."</p>
+				</div>
+			</div>
+        </div>
+    </div>
 </body>
 
 <style>
