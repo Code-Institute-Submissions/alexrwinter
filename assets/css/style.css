@@ -4,15 +4,27 @@
     light blue: #79a6c3
     dark blue: #0b61aa */
 
-/*text styling*/
+/*---------------------------------------------------text styling*/
 .body {
     font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
-h1 {
+h1, h2 {
     font-family: 'Montserrat', sans-serif;
+    }
+
+h1 {
     color: #f9f9e2;
+    }
+
+h2 {color: #79a6c3;
+font-size: 30px;
+margin-bottom: 15px;
+}
+
+i {
+    padding: 15px;
 }
 
 .lead {
@@ -26,7 +38,7 @@ h1 {
     height:2px;
 }
 
-/*navbar*/
+/*--------------------------------------------------------navbar*/
 .navbar-container {
     position: absolute;
     top: 0;
@@ -36,9 +48,22 @@ h1 {
     padding-right: 0;
     width: 100%;
 }
+/*----------------------------------------------------------------scrollspy*/
 
+.scrollspy-wrapper {
+  /*  position: absolute; */
+  float: right;
 
-/*buttons and links*/
+}
+
+.list-group-item {
+    font-style: 'Raleway', sans-serif;
+    color: #4385b7;
+    background-color: #f9f9e2;
+    text-align: left;
+}
+
+/*-----------------------------------------------------buttons and links*/
 
 .alex-text {
     text-decoration: none;
@@ -81,7 +106,9 @@ h1 {
     transition-duration: 0.3s;
 }
 
-/*containers*/
+
+/*---------------------------------------------containers*/
+/*---------------------------------------------Home*/
 .soundwaves-container{
     background: url("../images/evening-night-bottom.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -103,29 +130,32 @@ h1 {
 .title-container {
     padding-bottom: 70px;
 }
-
+/*---------------------------------------------------------About*/
 .about-container {
     background-color: #4385b7;
     color: #f9f9e2;
     font-family: 'Raleway', sans-serif;
-    height: 60vh;
+    height: 50vh;
 }
 
 .about-text {
     padding: 80px;
 }
 
-/*scrollspy*/
-
-.scrollspy-wrapper {
-  /*  position: absolute; */
-  float: right;
-
-}
-
-.list-group-item {
-    font-style: 'Raleway', sans-serif;
+/*-------------------------------------------------------Services*/
+.services-container {
+    padding-top: 50px;
+    padding-left:40px;
+    padding-right:40px;
+     background-color: #f9f9e2;
     color: #4385b7;
-    background-color: #f9f9e2;
-    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
+
+div.col-4 {
+    padding: 30px;
+}
+
+/*-------------containers*/
+
