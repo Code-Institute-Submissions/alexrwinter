@@ -136,7 +136,7 @@ i {
     color: #4385b7;
 }
 
-/*---------------------------------------------containers*/
+
 /*---------------------------------------------Home*/
 .soundwaves-container{
     background: url("../images/evening-night-bottom.jpg") no-repeat center center fixed; 
@@ -157,6 +157,19 @@ i {
     padding-bottom: 70px;
     color: #f9f9e2;
     font-family: 'Raleway', sans-serif;
+}
+
+.title-animation1 {
+    animation-delay: 0.3s;
+}
+
+.title-animation2 {
+    animation-delay: 1s;
+}
+
+.animation-button {
+    animation-delay: 1.7s;
+
 }
 
 /*---------------------------------------------------------About*/
