@@ -32,5 +32,6 @@ Resources:
 
 hover.css - buttons
 https://uigradients.com/ - background gradient
-Image by <a href="https://pixabay.com/users/OpenClipart-Vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2028515">OpenClipart-Vectors</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2028515">Pixabay</a>
 Image by OpenClipart-Vectors from Pixabay 
+font awesome
+animate.css via cndjs & github
