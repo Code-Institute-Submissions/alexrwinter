@@ -144,7 +144,11 @@ i {
     color: #4385b7;
 }
 
-
+.lead a {
+    text-decoration: none;
+    color: #f9f9e2;
+    font-weight:bold
+}
 /*---------------------------------------------Home*/
 .soundwaves-container{
     background: url("../images/evening-night-bottom.jpg") no-repeat center center fixed; 
