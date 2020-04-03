@@ -105,13 +105,10 @@ i {
 }
 
 .btn-contact {
+    font-family: 'Raleway', sans-serif;
     background-color: #f9f9e2;
     color:#4385b7;
-    
     border-radius: 50%;
-    padding-top: 34px;
-    padding-bottom: 34px;
-    font-family: 'Raleway', sans-serif;
 }
 
 .btn-contact:hover,
@@ -121,6 +118,17 @@ i {
     background-color: #4385b7;
     color: #f9f9e2;
     transition-duration: 0.3s;
+}
+
+.btn-contact-contact {
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+
+.btn-contact-sayhi {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
 }
 
 .chevron {
@@ -185,7 +193,7 @@ i {
 }
 
 .alex-image {
-    padding-top: 50px;
+    padding-top: 60px;
     text-align: center;
 }
 /*-------------------------------------------------------Services*/
