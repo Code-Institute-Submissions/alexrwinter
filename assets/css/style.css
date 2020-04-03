@@ -60,7 +60,11 @@ i {
     padding-right: 0;
     width: 100%;
 }
-/*----------------------------------------------------------------scrollspy*/
+/*----------------------------------------------------------------navbar 2*/
+
+.navbar-toggler {
+    text-align: right;
+}
 
 .scrollspy-wrapper {
   /*  position: absolute; */
@@ -191,3 +195,5 @@ div.col-4:last-child {
 .service-text {
     padding-bottom: 60px;
 }
+
+
