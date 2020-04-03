@@ -10,6 +10,7 @@
     position: relative;
 }
 
+
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     }
@@ -160,10 +161,10 @@ i {
     padding: 30px;
 }
 
-/*.alex-image {
-    padding-top: 80px;
-    padding-bottom: 80px;
-}*/
+.alex-image {
+    padding-top: 50px;
+    text-align: center;
+}
 /*-------------------------------------------------------Services*/
 .services-container {
     padding: 80px;
@@ -175,4 +176,12 @@ i {
 
 div.col-4 {
     padding-right: 60px;
+}
+
+div.col-4:last-child {
+    padding-right:0;
+}
+
+.service-text {
+    padding-bottom: 60px;
 }
