@@ -16,6 +16,7 @@ h1, h2, h3 {
 
 h1 {
     color: #f9f9e2;
+    font-size: 40px;
     }
 
 h2 {color: #79a6c3;
@@ -23,10 +24,14 @@ h2 {color: #79a6c3;
     margin-bottom: 15px;
 }
 
+.lead {
+    font-size: 20px;
+    font-weight:200;
+}
+
 i {
     padding: 15px;
 }
-
 
 .block-divider {
     background-color: #f9f9e2;
@@ -53,7 +58,6 @@ i {
 .scrollspy-wrapper {
   /*  position: absolute; */
   float: right;
-
 }
 
 .list-group-item {
@@ -143,34 +147,32 @@ i {
     color: #f9f9e2;
     font-family: 'Raleway', sans-serif;
 }
+
 /*---------------------------------------------------------About*/
 .about-container {
     background-color: #4385b7;
     color: #f9f9e2;
     font-family: 'Raleway', sans-serif;
-}
-
-.about-text {
     padding: 80px;
 }
 
-.alex-image {
-    padding-top: 80px;
+.about-text {
+    padding: 30px;
 }
+
+/*.alex-image {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}*/
 /*-------------------------------------------------------Services*/
 .services-container {
-    padding-top: 50px;
-    padding-left:40px;
-    padding-right:40px;
-     background-color: #f9f9e2;
+    padding: 80px;
+    background-color: #f9f9e2;
     color: #4385b7;
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
 
 div.col-4 {
-    padding: 30px;
+    padding-right: 60px;
 }
-
-/*-------------containers*/
-
