@@ -10,7 +10,6 @@
     position: relative;
 }
 
-
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     }
@@ -37,6 +36,13 @@ i {
 .block-divider {
     background-color: #f9f9e2;
     width: 80px;
+    height:2px;
+}
+
+
+.block-divider-sm {
+    background-color: #79a6c3;
+    width: 30px;
     height:2px;
 }
 
