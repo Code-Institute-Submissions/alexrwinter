@@ -74,20 +74,8 @@ i {
 }
 /*----------------------------------------------------------------navbar 2*/
 
-.navbar-toggler {
-    text-align: right;
-}
-
-.scrollspy-wrapper {
-  /*  position: absolute; */
-  float: right;
-}
-
-.list-group-item {
-    font-style: 'Raleway', sans-serif;
-    color: #4385b7;
-    background-color: #fff;
-    text-align: left;
+.navbar {
+    float: right;
 }
 
 /*-----------------------------------------------------buttons and links*/
@@ -113,7 +101,7 @@ i {
 }
 
 .fa-imdb:hover{
-    color: #155763;
+    color: #fff;
     transition-duration: 0.2s;
 }
 
