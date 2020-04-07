@@ -19,7 +19,7 @@
 <body>
 	<div class="container-fluid navbar-container">
 		<nav class="navbar">
-			<span style="font-size: 48px"><a class="imdb-brand" href="https://www.imdb.com/name/nm8237808/" target="_blank"><i class="fab fa-imdb"></i></a></span>
+			<span style="font-size: 48px"><a class="imdb-brand" href="https://www.imdb.com/name/nm8237808/" target="_blank"><i class="imdb-main fab fa-imdb"></i></a></span>
 		</nav>
 	</div>
 
@@ -27,7 +27,7 @@
 	<div id="home" class="soundwaves-container container-fluid">
 		<div class="row">
 			<div class="col-12 text-center title-container">
-                <h1 class="alex-text animated fadeIn title-animation1"> Alex R. Winter</h1>
+				<h1 class="alex-text animated fadeIn title-animation1"> Alex R. Winter</h1>
 				<span><h1 class="animated fadeIn title-animation1">Post-Production Sound</h1>
 				<hr class="block-divider animated fadeIn title-animation1"></span>
 				<p class="lead animated fadeIn title-animation2">Let me create the perfect sound for you</p>
@@ -38,21 +38,24 @@
 		<a href="#about" class="animated infinite pulse chevron"><i class="fas fa-chevron-down"></i></a>
 	</div>
 
-<!--navbar experiemtn-->
-<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+	<!--navbar experiemtn-->
+    
+	<nav id="main-navbar" class="navbar sticky-top navbar-expand-lg">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav flex-column">
-      <a class="nav-item nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">About</a>
-      <a class="nav-item nav-link" href="#">Services</a>
-      <a class="nav-item nav-link" href="#">Projects</a>
-      <a class="nav-item nav-link" href="#">Contact</a>
-    </div>
-  </div>
-</nav>
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav flex-column">
+				<a class="nav-item nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-item nav-link" href="#about">About</a>
+				<a class="nav-item nav-link" href="#services">Services</a>
+				<a class="nav-item nav-link" href="#projects">Projects</a>
+				<a class="nav-item nav-link" href="#contact">Contact</a>
+				<a class="nav-item nav-link" href="https://www.imdb.com/name/nm8237808/"
+					target="_blank"><i class="fab fa-imdb"></i></a>
+			</div>
+		</div>
+	</nav>
 
 
 	<!------------->
@@ -60,89 +63,90 @@
 
 
 
-
-	<!--About-->
-	<div id="about" class="about-container container-fluid">
-		<div class="row">
-			<div class="col-12 col-lg-6 about-text">
-				<h3>Making your tv, film or podcast sound professional </h3>
-				<br>
-				<p>I bring an experienced ear to the projects I work on, plus an approach rooted in
-					sound
-					theory and academic understanding.
-					<br>I am involved in audio production and post-production professionally and academically, working on feature films as dialogue editor, composer and
+	<div data-spy="scroll" data-target="#main-navbar" data-offset="0">
+		<!--About-->
+		<div id="about" class="about-container container-fluid">
+			<div class="row">
+				<div class="col-12 col-lg-6 about-text">
+					<h3>Making your tv, film or podcast sound professional </h3>
+					<br>
+					<p>I bring an experienced ear to the projects I work on, plus an approach rooted in
+						sound
+						theory and academic understanding.
+						<br>I am involved in audio production and post-production professionally and academically, working on feature films as dialogue editor, composer and
 						re-recording mixer; and having lectured in music production, sound design and post-production
 						sound.<br>
-                        I love to work with sound and can't wait to hear about your project- get in touch for a <a href="#">chat</a>, or send me a <a href="#">question</a>.</p>
+                        I love to work with sound and can't wait to hear about your project- get in touch for a <a
+							href="#">chat</a>, or send me a <a href="#">question</a>.</p>
 					<!--<button type="button" class="btn btn-lg btn-contact btn-contact-sayhi">Say hi!</button>-->
-			</div>
-			<div class="d-none d-sm-block col-lg-6 alex-image">
-				<a href="https://www.imdb.com/name/nm8237808/" target="_blank">
-					<img src="assets/images/alex.jpg">
+				</div>
+				<div class="d-none d-sm-block col-lg-6 alex-image">
+					<a href="https://www.imdb.com/name/nm8237808/" target="_blank">
+						<img src="assets/images/alex.jpg">
 					    </a>
+				</div>
 			</div>
 		</div>
-	</div>
-	<!--Services-->
-	<div id="services" class="services-container container-fluid">
-		<div class="row">
-			<div class="col-12 col-lg-4">
-				<div class="service-text">
-					<h2>Dialogue Edit<br><i class="fas fa-microphone"></i></h2>
-					<hr class="block-divider block-divider-sm">
-					<p>This often un-mentioned yet vital part of the post-production process is the first
-						step
-						in a
-						sound edit.<br>Through microphone choices,
+		<!--Services-->
+		<div id="services" class="services-container container-fluid">
+			<div class="row">
+				<div class="col-12 col-lg-4">
+					<div class="service-text">
+						<h2>Dialogue Edit<br><i class="fas fa-microphone"></i></h2>
+						<hr class="block-divider block-divider-sm">
+						<p>This often un-mentioned yet vital part of the post-production process is the first
+							step
+							in a
+							sound edit.<br>Through microphone choices,
 							editing and sound shaping to adding ambience and room tone, I can create something clean,
 							watchable, and ready for the addition of sound design and music.</p>
 
+					</div>
 				</div>
-			</div>
 
-			<div class="col-12 col-lg-4">
-				<div class="service-text">
-					<h2>Sound Design<br><i class="fas fa-magic"></i></h2>
-					<hr class="block-divider block-divider-sm">
-					<p>The creative elements of a soundtrack can add so much to the ambience of a project.
-						Correct
-						sound design is vital to tell the story; if you get it right, it will be as important
-						as
-						picture or dialogue.<br>I can add sound effects or create Foley sounds
+				<div class="col-12 col-lg-4">
+					<div class="service-text">
+						<h2>Sound Design<br><i class="fas fa-magic"></i></h2>
+						<hr class="block-divider block-divider-sm">
+						<p>The creative elements of a soundtrack can add so much to the ambience of a project.
+							Correct
+							sound design is vital to tell the story; if you get it right, it will be as important
+							as
+							picture or dialogue.<br>I can add sound effects or create Foley sounds
 							if and where required.</p>
+					</div>
+
 				</div>
 
-			</div>
-
-			<div class="col-12 col-lg-4">
-				<div class="service-text">
-					<h2>Re-Recording Mixer<br><i class="fas fa-headphones"></i></h2>
-					<hr class="block-divider block-divider-sm">
-					<p>Often also referred to as a Dubbing Mixer, this is where all the sound elements are
-						balanced,
-						panned and effected to create the overall final audio mix.<br>You may need
+				<div class="col-12 col-lg-4">
+					<div class="service-text">
+						<h2>Re-Recording Mixer<br><i class="fas fa-headphones"></i></h2>
+						<hr class="block-divider block-divider-sm">
+						<p>Often also referred to as a Dubbing Mixer, this is where all the sound elements are
+							balanced,
+							panned and effected to create the overall final audio mix.<br>You may need
 							stereo or surround sound mixes; get in touch to discuss your specific requirements.</p>
 
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
-	<!--Testimonials-->
-	<div id="testimonials" class="testimonials-container container-fluid">
-		<div class="row">
-			<div class="col-6">
-			</div>
-			<div class="col-6">
+		<!--Testimonials-->
+		<div id="testimonials" class="testimonials-container container-fluid">
+			<div class="row">
+				<div class="col-6">
+				</div>
+				<div class="col-6">
+				</div>
 			</div>
 		</div>
+
+		<!--Projects-->
+		<div id="projects" class="projects-container">
+
+		</div>
 	</div>
-
-	<!--Projects-->
-	<div id="projects" class="projects-container">
-
-	</div>
-
 </body>
 
 <style>
