@@ -8,6 +8,7 @@
 .body {
     font-family: 'Raleway', sans-serif;
     position: relative;
+    font-size: 25px;
 }
 
 h1, h2, h3 {
@@ -15,18 +16,29 @@ h1, h2, h3 {
     }
 
 h1 {
-    color: #f9f9e2;
-    font-size: 40px;
+    color: #ffffff;
+    font-size: 45px;
     }
 
-h2 {color: #79a6c3;
+h2 {color: #548788;
     font-size: 30px;
     margin-bottom: 15px;
 }
 
+h3 {
+    color: #fff;
+    font-size: 30px;
+}
+
 .lead {
-    font-size: 20px;
+    font-size: 25px;
     font-weight:200;
+}
+
+.p a {
+    text-decoration: none;
+    color: #e1e1e1;
+    font-weight:bold
 }
 
 i {
@@ -34,14 +46,14 @@ i {
 }
 
 .block-divider {
-    background-color: #f9f9e2;
+    background-color: #ffffff;
     width: 80px;
     height:2px;
 }
 
 
 .block-divider-sm {
-    background-color: #79a6c3;
+    background-color: #548788;
     width: 30px;
     height:2px;
 }
@@ -49,7 +61,7 @@ i {
 /*--------------------------------------------------------navbar*/
 
 .navbar {
-    background-color: rgba(1,91,167,0.2)
+    background-color: rgba(0,0,0,0)
 }
 .navbar-container {
     position: absolute;
@@ -74,40 +86,41 @@ i {
 .list-group-item {
     font-style: 'Raleway', sans-serif;
     color: #4385b7;
-    background-color: #f9f9e2;
+    background-color: #fff;
     text-align: left;
 }
 
 /*-----------------------------------------------------buttons and links*/
 
 .alex-text {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 35px;
-    font-weight: 500;
+    font-weight: 400;
     text-decoration: none;
-     color: #f9f9e2;
+     color: #fff;
+     padding-bottom: 40px;
 }
 
 .alex-text:hover{
     text-decoration: none;
-    color: #4385b7;
+    color: #fff;
     transition-duration: 0.5s;
 }
 
 .fa-imdb {
-    color:#f9f9e2 /* #f9f9e2*/;
+    color:#fffd95;
     font-size: 60px;
 }
 
 .fa-imdb:hover{
-    color: #4385b7;
+    color: #155763;
     transition-duration: 0.2s;
 }
 
 .btn-contact {
     font-family: 'Raleway', sans-serif;
-    background-color: #f9f9e2;
-    color:#4385b7;
+    background-color: #548788;
+    color:#fff;
     border-radius: 50%;
 }
 
@@ -115,8 +128,8 @@ i {
 .btn-contact:active,
 .btn-contact:focus,
 .btn-contact:active:focus {
-    background-color: #4385b7;
-    color: #f9f9e2;
+    background-color: #155763;
+    color: #fff;
     transition-duration: 0.3s;
 }
 
@@ -132,7 +145,7 @@ i {
 }
 
 .chevron {
-    color: #f9f9e2;
+    color: #fff;
     font-size: 50px;
     position: absolute;
     bottom: 0px;
@@ -141,17 +154,13 @@ i {
 }
 
 .chevron:hover {
-    color: #4385b7;
+    color: #155763;
 }
 
-.lead a {
-    text-decoration: none;
-    color: #f9f9e2;
-    font-weight:bold
-}
+
 /*---------------------------------------------Home*/
 .soundwaves-container{
-    background: url("../images/evening-night-bottom.jpg") no-repeat center center fixed; 
+    background: url("../images/seagreens.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -167,7 +176,7 @@ i {
 
 .title-container {
     padding-bottom: 70px;
-    color: #f9f9e2;
+    color: #fff;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -186,14 +195,22 @@ i {
 
 /*---------------------------------------------------------About*/
 .about-container {
-    background-color: #4385b7;
-    color: #f9f9e2;
+    background-color: #548788;
+    color: #fff;
     font-family: 'Raleway', sans-serif;
     padding: 80px;
+    font-weight: 200;
+    font-size: 20px;
 }
 
 .about-text {
     padding: 30px;
+}
+
+.about-text a {
+    text-decoration: none;
+    color: #fff;
+    font-weight:bold;
 }
 
 .alex-image {
@@ -203,10 +220,11 @@ i {
 /*-------------------------------------------------------Services*/
 .services-container {
     padding: 80px;
-    background-color: #f9f9e2;
-    color: #4385b7;
+    background-color: #e1e1e1;
+    color: #548788;
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    font-size: 18px;
 }
 
 div.col-4 {
