@@ -106,6 +106,8 @@ i {
 .navbar-toggler {
     background-color:#155763;
     color: #fff;
+    font-size: 50px;
+    border: none;
 }
 
 .navbar-toggler-icon {
@@ -120,8 +122,8 @@ i {
     bottom: 0px;
     width: 100%;
     right: 0px;
-    height:60px;
-    background-color: #548788;
+    height:90px;
+    /*background-color: #155763;*/
     text-align:center;
     margin: none;
     padding: none;
