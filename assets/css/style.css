@@ -114,6 +114,26 @@ i {
 }
 
 /*----------------chevron----------*/
+.chevron-bar {
+    position: absolute;
+    display:block;
+    bottom: 0px;
+    width: 100%;
+    right: 0px;
+    height:60px;
+    background-color: #548788;
+    text-align:center;
+    margin: none;
+    padding: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+.chevron-bar-chevron {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 50px;
+}
 
 .chevron {
     color: #fff;
