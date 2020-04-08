@@ -109,8 +109,26 @@ i {
 }
 
 .navbar-toggler-icon {
+    background-color:#155763;
+    width: 100%;
+    height: 40px;
     
 }
+
+/*----------------chevron----------*/
+
+.chevron {
+    color: #fff;
+    font-size: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 5%;
+}
+
+.chevron:hover {
+    color: #155763;
+}
+
 /*-----------------------------------------------------buttons and links*/
 
 .alex-text {
@@ -165,18 +183,6 @@ i {
     
 }
 
-.chevron {
-    color: #fff;
-    font-size: 50px;
-    position: absolute;
-    bottom: 0px;
-    right: 5%;
-    text-align: center;
-}
-
-.chevron:hover {
-    color: #155763;
-}
 
 
 /*---------------------------------------------Home*/
