@@ -81,7 +81,7 @@ i {
 #main-navbar {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    margin-right: 30px;
+    margin-right: 1%;
 }
 
 #main-navbar .nav-item {
@@ -135,15 +135,15 @@ i {
 .chevron-bar-chevron {
     text-decoration: none;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 65px;
 }
 
 .chevron {
     color: #fff;
-    font-size: 50px;
+    font-size: 65px;
     position: absolute;
     bottom: 0px;
-    right: 5%;
+    right: 2.5%;
 }
 
 .chevron:hover {
@@ -303,22 +303,19 @@ i {
     
 }
 
-.about-container>p {
-    
-}
 /*-------------------------------------------------------Services*/
 .services-container, .services-container-sm {
     background-color: #e1e1e1;
     padding: 80px;
 }
 
-div.col-4 {
+/*div.col-4 {
     padding-right: 60px;
 }
 
 div.col-4:last-child {
-    padding-right:0;
-}
+    padding-right:0px;
+}*/
 
 .service-text {
     color: #548788;
@@ -328,10 +325,13 @@ div.col-4:last-child {
     padding-bottom: 40px;
 }
 
-.service-text-lg {
+/*.service-text-lg {
     padding: 30px;
 }
 
+#services-lg {
+    padding-right: 40px;
+}*/
 .service-text-sm {
 
 }
