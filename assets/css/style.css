@@ -86,6 +86,7 @@ i {
     padding-top:0;
     margin-top:0;
     border: 0;
+    color: #fff;
 }
 
 #main-navbar .nav-item {
@@ -110,13 +111,11 @@ i {
 
 .navbar-toggler {
     background-color:#155763;
-    color: #fff;
-    font-size: 50px;
-    border: none;
+    width: 100%;
+   
 }
 
 .navbar-toggler-icon {
-    background-color:#155763;
     font-size: 40px;
 }
 
