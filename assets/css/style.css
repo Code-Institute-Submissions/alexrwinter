@@ -75,13 +75,17 @@ i {
 
 .navbar {
     float: right;
+    padding: 0;
 }
 
 /*---------navbar scrolling--------------*/
 #main-navbar {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    margin-right: 1%;
+    padding-right:2%;
+    padding-top:0;
+    margin-top:0;
+    border: 0;
 }
 
 #main-navbar .nav-item {
@@ -316,7 +320,6 @@ i {
 #services-lg { 
     padding-right: 100px;
 }
-
 
 .service-text {
     color: #548788;
