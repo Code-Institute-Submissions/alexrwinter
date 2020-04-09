@@ -39,22 +39,22 @@
 		<div class="d-none d-lg-block">
 			<a href="#about" class="animated infinite pulse chevron"><i class="fas fa-chevron-down"></i></a></div>
 
-		
-        <div class="d-lg-none">
-            <div class="chevron-bar chevron-bar-chevron">
-                
-                <a href="#about"><i class="chevron-bar-chevron animated infinite pulse fas fa-chevron-down"></i></a>
-            </div>
+
+		<div class="d-lg-none">
+			<div class="chevron-bar chevron-bar-chevron">
+
+				<a href="#about"><i class="chevron-bar-chevron animated infinite pulse fas fa-chevron-down"></i></a>
+			</div>
 		</div>
-		
-        
+
+
 	</div>
 
 	<!--navbar experiment-->
 
 	<nav id="main-navbar" class="navbar sticky-top navbar-expand-lg">
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"></button>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"></button>
 			<div class="navbar-nav flex-column">
 				<a class="nav-item nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
 				<a class="nav-item nav-link" href="#about">About</a>
@@ -73,7 +73,7 @@
 
 
 
-	<div data-spy="scroll" data-target="#main-navbar" data-offset="0">
+	
 		<!--About-->
 		<div id="about" class="about-container container-fluid">
 			<div class="row">
@@ -97,78 +97,166 @@
 				</div>
 			</div>
 		</div>
-		<!--Services-->
-		<div id="services" class="services-container container-fluid">
-			<div class="row">
-				<div class="col-12 col-lg-4">
-					<div class="service-text">
-						<h2>Dialogue Edit<br><i class="fas fa-microphone"></i></h2>
-						<hr class="block-divider block-divider-sm">
-						<p>This often un-mentioned yet vital part of the post-production process is the first
-							step
-							in a
-							sound edit.<br>Through microphone choices,
+
+
+
+		<!------------------------------------------Services experiment-------------------------------------------->
+			<div class="d-md-none">
+				<div id="services-sm" class="services-container-sm container-fluid">
+					<div class="row">
+						<div class="col-12 col-lg-4">
+							<div class="service-text">
+								<div class="accordian" id="dialogue-edit">
+									<h2 class="mb-0">
+										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse-dialogue-edit" aria-expanded="true" aria-controls="collapseOne">
+                                Dialogue Edit<br><i class="fas fa-microphone"></i>
+                                <hr class="block-divider block-divider-sm">
+                                </button>
+									</h2>
+								</div>
+
+								<div id="collapse-dialogue-edit" class="collapse" aria-labelledby="Dialogue Edit"
+									data-parent="#dialogue-edit">
+									<p>This often un-mentioned yet vital part of the post-production process is the
+										first
+										step
+										in a
+										sound edit<br>Through microphone choices,
+							editing and sound shaping to adding ambience and room tone, I can create something clean,
+							watchable, and ready for the addition of sound design and music.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="col-12 col-lg-4">
+							<div class="service-text">
+								<div class="accordian" id="sound-design">
+									<h2 class="mb-0">
+										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse-sound-design" aria-expanded="true" aria-controls="collapseOne">
+                                Sound Design<br><i class="fas fa-magic"></i>
+                                <hr class="block-divider block-divider-sm">
+                                </button>
+									</h2>
+								</div>
+
+								<div id="collapse-sound-design" class="collapse" aria-labelledby="Sound Design"
+									data-parent="#sound-design">
+									<p>This often un-mentioned yet vital part of the post-production process is the
+										first
+										step
+										in a
+										sound edit<br>Through microphone choices,
+							editing and sound shaping to adding ambience and room tone, I can create something clean,
+							watchable, and ready for the addition of sound design and music.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="col-12 col-lg-4">
+							<div class="service-text">
+								<div class="accordian" id="re-recording-mixer">
+									<h2 class="mb-0">
+										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse-re-recording-mixer" aria-expanded="true" aria-controls="collapseOne">
+                                Re-Recording Mixer<br><i class="fas fa-headphones"></i>
+                                <hr class="block-divider block-divider-sm">
+                                </button>
+									</h2>
+								</div>
+
+								<div id="collapse-re-recording-mixer" class="collapse" aria-labelledby="Re-Recording Mixer"
+									data-parent="#re-recording-mixer">
+									<p>This often un-mentioned yet vital part of the post-production process is the
+										first
+										step
+										in a
+										sound edit<br>Through microphone choices,
+							editing and sound shaping to adding ambience and room tone, I can create something clean,
+							watchable, and ready for the addition of sound design and music.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+				<!-----------------------------Original services container full display ---------------->
+			<div class="d-none d-md-block"
+                <div id="services" class="services-container container-fluid">
+					<div class="row">
+						<div class="col-12 col-lg-4">
+							<div class="service-text">
+								<h2>Dialogue Edit<br><i class="fas fa-microphone"></i></h2>
+								<hr class="block-divider block-divider-sm">
+								<p>This often un-mentioned yet vital part of the post-production process is the first
+									step
+									in a
+									sound edit.<br>Through microphone choices,
 							editing and sound shaping to adding ambience and room tone, I can create something clean,
 							watchable, and ready for the addition of sound design and music.</p>
 
-					</div>
-				</div>
+							</div>
+						</div>
 
-				<div class="col-12 col-lg-4">
-					<div class="service-text">
-						<h2>Sound Design<br><i class="fas fa-magic"></i></h2>
-						<hr class="block-divider block-divider-sm">
-						<p>The creative elements of a soundtrack can add so much to the ambience of a project.
-							Correct
-							sound design is vital to tell the story; if you get it right, it will be as important
-							as
-							picture or dialogue.<br>I can add sound effects or create Foley sounds
+						<div class="col-12 col-lg-4">
+							<div class="service-text">
+								<h2>Sound Design<br><i class="fas fa-magic"></i></h2>
+								<hr class="block-divider block-divider-sm">
+								<p>The creative elements of a soundtrack can add so much to the ambience of a project.
+									Correct
+									sound design is vital to tell the story; if you get it right, it will be as
+									important
+									as
+									picture or dialogue.<br>I can add sound effects or create Foley sounds
 							if and where required.</p>
-					</div>
+							</div>
 
-				</div>
+						</div>
 
-				<div class="col-12 col-lg-4">
-					<div class="service-text">
-						<h2>Re-Recording Mixer<br><i class="fas fa-headphones"></i></h2>
-						<hr class="block-divider block-divider-sm">
-						<p>Often also referred to as a Dubbing Mixer, this is where all the sound elements are
-							balanced,
-							panned and effected to create the overall final audio mix.<br>You may need
+						<div class="col-12 col-lg-4">
+							<div class="service-text">
+								<h2>Re-Recording Mixer<br><i class="fas fa-headphones"></i></h2>
+								<hr class="block-divider block-divider-sm">
+								<p>Often also referred to as a Dubbing Mixer, this is where all the sound elements are
+									balanced,
+									panned and effected to create the overall final audio mix.<br>You may need
 							stereo or surround sound mixes; get in touch to discuss your specific requirements.</p>
-
+							</div>
+						</div>
+					</div>
+			    </div>
+			</div>
+		    
+				<!------------------------services end----------------------------------->
+				<!--Testimonials-->
+				<div id="testimonials" class="testimonials-container container-fluid">
+					<div class="row">
+						<div class="col-6">
+						</div>
+						<div class="col-6">
+						</div>
 					</div>
 				</div>
-			</div>
-		</div>
 
-		<!--Testimonials-->
-		<div id="testimonials" class="testimonials-container container-fluid">
-			<div class="row">
-				<div class="col-6">
+				<!--Projects-->
+				<div id="projects" class="projects-container">
+
 				</div>
-				<div class="col-6">
-				</div>
-			</div>
-		</div>
+			
 
-		<!--Projects-->
-		<div id="projects" class="projects-container">
-
-		</div>
-	</div>
-
-	<!--bootstrap javascript-->
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-		integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
-	</script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-		integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-		integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-	</script>
-	<!--------------------->
+			<!--bootstrap javascript-->
+			<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+				integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+				crossorigin="anonymous">
+			</script>
+			<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+				integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+				crossorigin="anonymous">
+			</script>
+			<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+				integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+				crossorigin="anonymous">
+			</script>
+			<!--------------------->
 </body>
 
 <style>
