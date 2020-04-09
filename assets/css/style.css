@@ -304,18 +304,19 @@ i {
 }
 
 /*-------------------------------------------------------Services*/
-.services-container, .services-container-sm {
+.services-container {
     background-color: #e1e1e1;
     padding: 80px;
 }
 
-/*div.col-4 {
-    padding-right: 60px;
+#services-sm {
+
 }
 
-div.col-4:last-child {
-    padding-right:0px;
-}*/
+#services-lg { 
+    padding-right: 100px;
+}
+
 
 .service-text {
     color: #548788;
@@ -325,13 +326,14 @@ div.col-4:last-child {
     padding-bottom: 40px;
 }
 
-/*.service-text-lg {
-    padding: 30px;
+.service-text-lg {
+    
 }
 
-#services-lg {
-    padding-right: 40px;
-}*/
+#services-container-lg {
+     padding-right: 200px;
+}
+
 .service-text-sm {
 
 }
