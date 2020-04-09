@@ -284,6 +284,7 @@ i {
 /*-------------------------------------------------------Services*/
 .services-container, .services-container-sm {
     background-color: #e1e1e1;
+    padding: 80px;
 }
 
 div.col-4 {
@@ -299,9 +300,7 @@ div.col-4:last-child {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 18px;
-    padding: 80px;
-    padding-bottom: 60px;
-    
+    padding-bottom: 40px;
 }
 
 

@@ -17,13 +17,16 @@
 </head>
 
 <body>
+
+    <!---------------------------------imdb navbar (header)------------------------------------------------>
 	<div class="container-fluid navbar-container">
 		<nav class="navbar">
 			<span style="font-size: 48px"><a class="imdb-brand" href="https://www.imdb.com/name/nm8237808/" target="_blank"><i class="imdb-main fab fa-imdb"></i></a></span>
 		</nav>
 	</div>
+    <!------------------------------------------------------------------------------------------------------->
 
-	<!-- Landing Page -->
+	<!----------------------------------------------- Landing Page ------------------------------------------>
 	<div id="home" class="soundwaves-container container-fluid">
 		<div class="row">
 			<div class="col-12 text-center title-container">
@@ -35,23 +38,18 @@
 				<button type="button" class="btn btn-lg btn-contact-contact btn-contact animated fadeIn animation-button">Contact</button>
 			</div>
 		</div>
-
+        <!--  chevron  -->
 		<div class="d-none d-lg-block">
 			<a href="#about" class="animated infinite pulse chevron"><i class="fas fa-chevron-down"></i></a></div>
-
-
 		<div class="d-lg-none">
 			<div class="chevron-bar chevron-bar-chevron">
-
 				<a href="#about"><i class="chevron-bar-chevron animated infinite pulse fas fa-chevron-down"></i></a>
 			</div>
 		</div>
-
-
 	</div>
+    <!------------------------------------------------------------------------------------------------------->
 
-	<!--navbar experiment-->
-
+	<!---------------------------------Scrollspy Navbar (sticky top)----------------------------------------->
 	<nav id="main-navbar" class="navbar sticky-top navbar-expand-lg">
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"></button>
@@ -66,15 +64,9 @@
 			</div>
 		</div>
 	</nav>
+    <!------------------------------------------------------------------------------------------------------->
 
-
-	<!------------->
-
-
-
-
-
-	<!--About-->
+	<!-----------------------------------------------About--------------------------------------------------->
 	<div id="about" class="about-container container-fluid">
 		<div class="row">
 			<div class="col-12 col-lg-6 about-text">
@@ -90,7 +82,7 @@
 						href="#">chat</a>, or send me a <a href="#">question</a>.</p>
 				<!--<button type="button" class="btn btn-lg btn-contact btn-contact-sayhi">Say hi!</button>-->
 			</div>
-			<div class="d-none d-sm-block col-lg-6 alex-image">
+			<div class="d-none d-md-block col-lg-6 alex-image">
 				<a href="https://www.imdb.com/name/nm8237808/" target="_blank">
 					<img src="assets/images/alex.jpg">
 					    </a>
@@ -99,14 +91,14 @@
 	</div>
 
 
-
-	<!------------------------------------------Services experiment-------------------------------------------->
+    <!-----------------------------------------------services---------------------------------------------------->
+	<!------------------------------------------Services mobile display ----------------------------------------->
 	<div class="services-container container-fluid">
 		<div class="d-md-none">
 			<div id="services-sm">
 				<div class="row">
 					<div class="col-12 col-lg-4">
-						<div class="service-text">
+						<div class="service-text service-text-sm">
 							<div id="dialogue-edit">
 								<h2>
 									<button class="btn btn-services" type="button" data-toggle="collapse" data-target="#collapse-dialogue-edit" aria-expanded="true" aria-controls="collapseOne">
@@ -129,7 +121,7 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
-						<div class="service-text">
+						<div class="service-text service-text-sm">
 							<div class="accordian" id="sound-design">
 								<h2 class="mb-0">
 									<button class="btn btn-services" type="button" data-toggle="collapse" data-target="#collapse-sound-design" aria-expanded="true" aria-controls="collapseOne">
@@ -152,7 +144,7 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
-						<div class="service-text">
+						<div class="service-text service-text-sm">
 							<div class="accordian" id="re-recording-mixer">
 								<h2 class="mb-0">
 									<button class="btn btn-services" type="button" data-toggle="collapse" data-target="#collapse-re-recording-mixer" aria-expanded="true" aria-controls="collapseOne">
@@ -177,14 +169,11 @@
 				</div>
 			</div>
 		</div>
-
-
-
-		<!-----------------------------Original services container full display ---------------->
+	<!-----------------------------Original Services container full display ------------------------------------->
 		<div class="d-none d-md-block" id="services-lg">
 			<div class="row">
 				<div class="col-12 col-lg-4">
-					<div class="service-text">
+					<div class="service-text service-text-lg">
 						<h2>Dialogue Edit<br><i class="fas fa-microphone"></i></h2>
 						<hr class="block-divider block-divider-sm">
 						<p>This often un-mentioned yet vital part of the post-production process is the first
@@ -198,7 +187,7 @@
 				</div>
 
 				<div class="col-12 col-lg-4">
-					<div class="service-text">
+					<div class="service-text service-text-lg">
 						<h2>Sound Design<br><i class="fas fa-magic"></i></h2>
 						<hr class="block-divider block-divider-sm">
 						<p>The creative elements of a soundtrack can add so much to the ambience of a project.
@@ -213,7 +202,7 @@
 				</div>
 
 				<div class="col-12 col-lg-4">
-					<div class="service-text">
+					<div class="service-text service-text-lg">
 						<h2>Re-Recording Mixer<br><i class="fas fa-headphones"></i></h2>
 						<hr class="block-divider block-divider-sm">
 						<p>Often also referred to as a Dubbing Mixer, this is where all the sound elements are
@@ -225,8 +214,9 @@
 			</div>
 		</div>
 	</div>
+	<!----------------------------------------------------------------------------------------------------------->
 
-	<!------------------------services end----------------------------------->
+
 	<!--Testimonials-->
 	<div id="testimonials" class="testimonials-container container-fluid">
 		<div class="row">
