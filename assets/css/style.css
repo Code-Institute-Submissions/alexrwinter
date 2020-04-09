@@ -119,6 +119,20 @@ i {
     font-size: 40px;
 }
 
+.main-navbar-bar {
+    position: absolute;
+    display:block;
+    width: 100%;
+    right: 0px;
+    height:70px;
+    background-color: #155763;
+    text-align:center;
+    margin: none;
+    padding: none;
+    text-decoration: none;
+    color: #fff;
+}
+
 /*----------------chevron----------*/
 .chevron-bar {
     position: absolute;
