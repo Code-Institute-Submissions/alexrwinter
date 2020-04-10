@@ -18,16 +18,19 @@ h1, h2, h3 {
 h1 {
     color: #ffffff;
     font-size: 45px;
+    font-weight:400;
     }
 
 h2 {color: #548788;
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 15px;
+    font-weight: 200;
 }
 
 h3 {
     color: #fff;
-    font-size: 30px;
+    font-size: 40px;
+    font-weight: 100;
 }
 
 .lead {
@@ -225,8 +228,8 @@ i {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     color:#548788;
-    font-size: 30px;
-    font-weight: 500;
+    font-size: 35px;
+    font-weight: 200;
     padding: 0;
     margin: 0;
 }
@@ -266,11 +269,11 @@ i {
 }
 
 .title-animation2 {
-    animation-delay: 1.5s;
+    animation-delay: 1.2s;
 }
 
 .animation-button {
-    animation-delay: 2.5s;
+    animation-delay: 1.2s;
 
 }
 
@@ -322,7 +325,7 @@ i {
 
 /*-------------------------------------------------------Services*/
 .services-container {
-    background-color: #e1e1e1;
+    background-color: #fff;
     padding: 80px;
 }
 
@@ -338,7 +341,7 @@ i {
     color: #548788;
     font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     padding-bottom: 40px;
 }
 
@@ -354,4 +357,45 @@ i {
 
 }
 
+/*.........................................testimonials.........................*/
 
+.testimonials-container {
+    background-color: #195965;
+    color: #fff;
+
+    /*background: url("../images/seagreens.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    height: 100vh;*/
+    
+
+}
+
+.projects-container {
+    background: url("../images/seagreens.jpg") no-repeat top right; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    height: 100vh;
+}
+
+
+.comntact-container {
+    background-color: #e1e1e1;
+    height: 50vh;
+}
