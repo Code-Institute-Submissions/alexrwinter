@@ -283,7 +283,7 @@ i {
 
 /*---------------------------------------------------------About*/
 .about-container {
-    background-color: #548788;
+    background-color: rgba(84,135,136, 1);
     color: #fff;
     font-family: 'Raleway', sans-serif;
     padding: 80px;
@@ -304,10 +304,11 @@ i {
 .alex-image {
     padding-top: 60px;
     text-align: center;
+    opacity: 0.6;
 }
 
 .alex-image:hover {
-    transform: scale(1.05);
+    opacity: 1;
     transition-duration: 1s;
 }
 
@@ -364,7 +365,7 @@ i {
 /*.........................................testimonials.........................*/
 
 .testimonials-container {
-    background-color: #195965;
+    background-color: rgba(25,89,101,1);
     color: #fff;
 
     /*background: url("../images/seagreens.jpg") no-repeat center center fixed; 
