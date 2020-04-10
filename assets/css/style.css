@@ -367,35 +367,37 @@ i {
 .testimonials-container {
     background-color: rgba(25,89,101,1);
     color: #fff;
-
-    /*background: url("../images/seagreens.jpg") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-    height: 100vh;*/
-    
-
 }
 
-.logo-image {
+.review-box {
     text-align: center;
     padding-top: 80px;
     padding-bottom: 40px;
-    float: left;
+}
 
+.logo-text > hr {
+    margin-top: 50px;
+}
+
+.review-box-2 {
+     padding-right: 200px;
+}
+
+.review-box-1 {
+    padding-left:100px;
+    padding-right: 100px;
 }
 
 .logo-text {
-    float: right;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
 }
 
+/*---------------------------------------------projects---------------------------------------*/
 .projects-container {
     background: url("../images/seagreens.jpg") no-repeat top right; 
     -webkit-background-size: cover;
