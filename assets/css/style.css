@@ -87,7 +87,7 @@ i {
 #main-navbar {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    padding-right:2%;
+    padding-right:2.5%;
     padding-top:0;
     margin-top:0;
     border: 0;
@@ -117,57 +117,25 @@ i {
 .navbar-toggler {
     background-color:#155763;
     width: 100%;
-   
+    font-size: 25px;
 }
 
-.navbar-toggler-icon {
-    font-size: 40px;
-}
-
-.main-navbar-bar {
-    position: absolute;
-    display:block;
-    width: 100%;
-    right: 0px;
-    height:70px;
-    background-color: #155763;
-    text-align:center;
-    margin: none;
-    padding: none;
-    text-decoration: none;
-    color: #fff;
-}
 
 /*----------------chevron----------*/
-.chevron-bar {
-    position: absolute;
-    display:block;
-    bottom: 0px;
-    width: 100%;
-    right: 0px;
-    height:90px;
-    /*background-color: #155763;*/
-    text-align:center;
-    margin: none;
-    padding: none;
-    text-decoration: none;
-    color: #fff;
-}
-
-.chevron-bar-chevron {
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 65px;
-}
-
 .chevron {
     color: #fff;
-    font-size: 65px;
+    font-size: 50px;
     position: absolute;
     bottom: 0px;
-    right: 2.5%;
+    right: 1.5%;
 }
 
+@media (min-width:768px){
+   .chevron{
+       font-size:60px;
+       right: 4.2%;
+   } 
+}
 .chevron:hover {
     color: #155763;
 }
