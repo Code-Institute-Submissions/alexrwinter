@@ -294,8 +294,19 @@ i {
     font-size: 20px;
 }
 
-.about-text {
-    padding: 30px;
+@media (max-width: 576px) {
+    .about-container {
+        padding-top: 30px;
+        padding-right: 0px;
+        padding-left: 2px;
+        padding-bottom: 30px;
+    }
+}
+
+@media (max-width: 576px) {
+    .about-container h3 {
+        font-size: 30px;
+    }
 }
 
 .about-text a {
@@ -308,6 +319,7 @@ i {
     padding-top: 60px;
     text-align: center;
     opacity: 0.6;
+    
 }
 
 .alex-image:hover {
@@ -337,8 +349,13 @@ i {
     padding: 80px;
 }
 
-#services-sm {
-
+@media (max-width: 576px) {
+    .services-container {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left:10px;
+        padding-right: 10px;
+    }
 }
 
 #services-lg { 
@@ -353,6 +370,16 @@ i {
     padding-bottom: 40px;
 }
 
+@media (max-width: 576px) {
+    .service-text{
+        font-size: 18px;
+}
+
+@media (max-width: 576px) {
+    .service-text h2 {
+        font-size: 30px;
+    }
+}
 .service-text-lg {
     
 }
