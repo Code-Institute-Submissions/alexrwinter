@@ -21,9 +21,15 @@ h1, h2, h3 {
 
 h1 {
     color: #ffffff;
-    font-size: 45px;
+    font-size: 40px;
     font-weight:400;
     }
+
+@media (min-width:922px) {
+    h1 {
+        font-size:45px;
+    }
+}
 
 h2 {color: #548788;
     margin-bottom: 15px;
@@ -55,7 +61,6 @@ i {
     width: 80px;
     height:2px;
 }
-
 
 .block-divider-sm {
     background-color: #548788;
@@ -136,6 +141,7 @@ i {
        right: 4.2%;
    } 
 }
+
 .chevron:hover {
     color: #155763;
 }
@@ -149,6 +155,12 @@ i {
     text-decoration: none;
     color: #fff;
     padding-bottom: 40px;
+}
+
+@media (min-width:922px) {
+    .alex-text {
+        font-size:40px;
+    }
 }
 
 .alex-text:hover{
@@ -236,6 +248,7 @@ i {
     padding-bottom: 70px;
     color: #fff;
     font-family: 'Raleway', sans-serif;
+    max-height: 100vh;
 }
 
 .title-animation1 {
@@ -358,7 +371,7 @@ i {
 
 }
 
-/*.........................................testimonials.........................*/
+/*----------------------------------------testimonials-----------------------------*/
 
 .testimonials-container {
     background-color: rgba(25,89,101,1);
@@ -392,6 +405,7 @@ i {
     font-weight: 300;
     font-family: 'Raleway', sans-serif;
 }
+
 
 /*---------------------------------------------projects---------------------------------------*/
 .projects-container {
