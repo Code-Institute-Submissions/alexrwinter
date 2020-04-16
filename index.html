@@ -15,7 +15,7 @@
 </head>
 
 
-<body>
+<body data-spy="scroll" data-target="navbar #main-navbar" data-offset="0">
 	<!---------------------------------imdb navbar (header)------------------------------------------------>
 	<div class="container-fluid navbar-container">
 		<nav class="navbar">
@@ -39,22 +39,16 @@
 		<!--  chevron  -->
 		<div>
 			<a href="#about" class="animated infinite pulse chevron"><i class="fas fa-chevron-down"></i></a></div>
-		<!--<div class="d-md-none">
-			<div class="chevron-bar">
-				<a
-					href="#about"><i id="chevron" class="chevron-bar-chevron animated infinite pulse fas fa-chevron-down"></i></a>
-			</div>
-		</div>-->
 
 	</section>
 
 	<!---------------------------------Scrollspy Navbar (sticky top)----------------------------------------->
 
-	<nav id="main-navbar" class="navbar sticky-top navbar-expand-md navbar-dark">
+	<nav id="main-navbar" class="navbar navbar-scroll sticky-top navbar-expand-md navbar-dark">
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon justify-content-center"></span></button>
 			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-				<div class="navbar-nav flex-column">
+				<div class="nav navbar-nav flex-column" role="tablist">
 					<a class="nav-item nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
 					<a class="nav-item nav-link" href="#about">About</a>
 					<a class="nav-item nav-link" href="#services">Services</a>

@@ -1,8 +1,4 @@
-/*colours*/
 
-/* text colour: #f9f9e2
-    light blue: #79a6c3
-    dark blue: #0b61aa */
 
 /*---------------------------------------------------text styling*/
 
@@ -359,9 +355,6 @@ i {
         font-size: 35px;
     }
 }
-.service-text-lg {
-    
-}
 
 #services-container-lg {
      padding-right: 200px;
@@ -388,14 +381,6 @@ i {
     margin-top: 50px;
 }
 
-.review-box-2 {
-     padding-right: 200px;
-}
-
-.review-box-1 {
-    padding-left:100px;
-    padding-right: 100px;
-}
 
 .logo-text {
     padding-top: 30px;
