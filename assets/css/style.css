@@ -93,11 +93,21 @@ i {
     margin-top:0;
     border: 0;
     color: #fff;
+    background-color: #155763;
 }
 
-#main-navbar .nav-item {
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:active
+.navbar-light .navbar-nav .nav-link:hover {
+    color:purple;
+    background-color:#548788;
+}
+
+.nav-item {
     color: #fff;
-    background-color: #155763;
     text-decoration: none;
     font-size: 20px;
     text-align: center;
@@ -105,15 +115,12 @@ i {
     padding-top: 20px;
 }
 
-#main-navbar .nav-item:last-child {
+.nav-item:last-child {
     font-size: 40px;
     padding-top: 0;
     padding-bottom: 10px;
 }
 
-#main-navbar .nav-item:hover {
-    background-color: #548788;
-}
 
 .navbar-toggler {
     background-color:#155763;
