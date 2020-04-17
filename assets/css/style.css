@@ -69,6 +69,7 @@ i {
 .navbar {
     background-color: rgba(0,0,0,0)
 }
+
 .navbar-container {
     position: absolute;
     top: 0;
@@ -88,22 +89,12 @@ i {
 #main-navbar {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    padding-right:2.5%;
+    padding-right:0;
     padding-top:0;
     margin-top:0;
     border: 0;
     color: #fff;
     background-color: #155763;
-}
-
-.navbar-light .navbar-nav .nav-link {
-    color: white;
-}
-
-.navbar-light .navbar-nav .nav-link:active
-.navbar-light .navbar-nav .nav-link:hover {
-    color:purple;
-    background-color:#548788;
 }
 
 .nav-item {
@@ -135,13 +126,13 @@ i {
     font-size: 50px;
     position: absolute;
     bottom: 0px;
-    right: 1.5%;
+    right: 0;
 }
 
 @media (min-width:768px){
    .chevron{
        font-size:60px;
-       right: 4.2%;
+       right:2.5%;
    } 
 }
 
@@ -177,9 +168,11 @@ i {
     font-size: 60px;
 }
 
+@media (min-width:992px) {
 .imdb-main:hover{
     color: #fff;
     transition-duration: 0.2s;
+    }
 }
 
 .btn-contact {
