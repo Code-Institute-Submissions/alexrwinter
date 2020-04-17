@@ -1,6 +1,6 @@
 
 
-/*---------------------------------------------------text styling*/
+/*---------------------------------------------------Text Styling--*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,700,800|Raleway:200,200i,300,300i,400,400i,500,500i,600,700,800&display=swap');
 
@@ -76,7 +76,7 @@ i {
     height:1px;
 }
 
-/*--------------------------------------------------------navbar top*/
+/*---------------------------------------------------Navbar Top (Imdb)--*/
 
 .navbar {
     background-color: rgba(0,0,0,0)
@@ -97,7 +97,7 @@ i {
     padding: 0;
 }
 
-/*---------navbar scrolling--------------*/
+/*---------------------------------------------------Navbar Scrolling (Main Nav)--*/
 
 @media (min-width:767px) {
 #main-navbar {
@@ -154,7 +154,7 @@ i {
     }
 }
 
-/*----------------chevron----------*/
+/*---------------------------------------------------Chevron--*/
 .chevron {
     color: #fff;
     font-size: 50px;
@@ -174,7 +174,7 @@ i {
     color: #155763;
 }
 
-/*-----------------------------------------------------buttons and links*/
+/*---------------------------------------------------Buttons and Links--*/
 
 .imdb-main {
     color:#fffd95;
@@ -237,7 +237,7 @@ i {
     transition-duration: 0.2s;
 }
 
-/*---------------------------------------------Home*/
+/*---------------------------------------------------Home--*/
 .soundwaves-container{
     background: url("../images/seagreens.jpg") no-repeat right center fixed; 
     -webkit-background-size: cover;
@@ -295,7 +295,7 @@ i {
 
 }
 
-/*---------------------------------------------------------About----*/
+/*---------------------------------------------------About--*/
 .about-container {
     background-color: rgba(84,135,136, 1);
     color: #fff;
@@ -351,7 +351,7 @@ i {
     
 }
 
-/*-------------------------------------------------------Services*/
+/*---------------------------------------------------Services--*/
 .services-container {
     background-color: #fff;
     padding: 60px 40px;
@@ -385,10 +385,10 @@ i {
 }
 
 
-/*----------------------------------------testimonials---*/
+/*---------------------------------------------------Testimonials--*/
     
 .test-container {
-    background-color: #548788;
+    background-color: #155763;
     color: #fff;
     padding: 60px 40px;
     text-align: center;
@@ -420,9 +420,8 @@ i {
     }
 }
 
-
-/*---------------------------------------------projects---------------------------------------*/
-.projects-container {
+/*---------------------------------------------------Projects--*/
+/*.projects-container {
     background: url("../images/seagreens.jpg") no-repeat top right; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -435,9 +434,17 @@ i {
 
     position: relative;
     height: 100vh;
+}*/
+
+.projects-container {
+    background-color: #548788;
 }
 
-.comntact-container {
+
+
+/*---------------------------------------------------Contact--*/
+
+.contact-container {
     background-color: #e1e1e1;
     height: 50vh;
 }
