@@ -100,6 +100,8 @@ i {
 }
 
 /*---------navbar scrolling--------------*/
+
+@media (min-width:576px) {
 #main-navbar {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
@@ -109,6 +111,15 @@ i {
     border: 0;
     color: #fff;
     background-color: #155763;
+    }
+}
+
+@media (max-width:576px){
+#main-navbar {
+    width: 100%;
+    text-align:center;
+    background-color:#155763;
+    }
 }
 
 .nav-item {
@@ -120,12 +131,18 @@ i {
     padding-top: 20px;
 }
 
+
 .nav-item:last-child {
     font-size: 40px;
     padding-top: 0;
     padding-bottom: 10px;
 }
 
+@media (max-width:576px) {
+.nav-item {
+    padding: 5px;
+}
+}
 
 .navbar-toggler {
     background-color:#155763;
@@ -275,7 +292,7 @@ i {
 
 }
 
-/*---------------------------------------------------------About*/
+/*---------------------------------------------------------About----*/
 .about-container {
     background-color: rgba(84,135,136, 1);
     color: #fff;
@@ -379,7 +396,7 @@ i {
 
 }
 
-/*----------------------------------------testimonials-----------------------------*/
+/*----------------------------------------testimonials---*/
 
 .testimonials-container {
     background-color: rgba(25,89,101,1);
