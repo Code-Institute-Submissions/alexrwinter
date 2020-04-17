@@ -362,11 +362,8 @@ i {
 @media (min-width: 576px) {
     .services-container {
         padding: 80px;
+        padding-right:150px;
     }
-}
-
-#services-lg { 
-    padding-right: 100px;
 }
 
 .service-text {
@@ -388,13 +385,7 @@ i {
     }
 }
 
-#services-container-lg {
-     padding-right: 200px;
-}
 
-.service-text-sm {
-
-}
 
 /*----------------------------------------testimonials---*/
 
