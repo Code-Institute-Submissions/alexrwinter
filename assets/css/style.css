@@ -300,9 +300,7 @@ i {
     background-color: rgba(84,135,136, 1);
     color: #fff;
     font-family: 'Raleway', sans-serif;
-    padding-top:40px;
-    padding-bottom:40px;
-    padding-right: 2px;
+    padding:60px 40px;
     font-weight: 200;
     font-size: 20px;
 }
@@ -356,10 +354,7 @@ i {
 /*-------------------------------------------------------Services*/
 .services-container {
     background-color: #fff;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left:10px;
-    padding-right: 10px;
+    padding: 60px 40px;
 }
 
 @media (min-width: 992px) {
@@ -381,6 +376,7 @@ i {
     .service-text{
         font-size: 20px;
 }
+}
 
 @media (min-width: 576px) {
     .service-text h2 {
@@ -389,32 +385,39 @@ i {
 }
 
 
-
 /*----------------------------------------testimonials---*/
-
-.testimonials-container {
-    background-color: rgba(25,89,101,1);
+    
+.test-container {
+    background-color: #548788;
     color: #fff;
+    padding: 60px 40px;
+    text-align: center;
+    font-size: 15px;
 }
 
-.review-box {
+.logo-image {
     text-align: center;
-    padding-top: 80px;
-    padding-bottom: 40px;
 }
 
 .logo-text > hr {
-    margin-top: 50px;
 }
 
-
 .logo-text {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 50px;
-    font-size: 20px;
-    font-weight: 300;
+    font-size: 17px;
+    font-weight: 200;
     font-family: 'Raleway', sans-serif;
+    margin-bottom: 40px;
+}
+
+.test-name {
+    font-size: 23px;
+    font-weight:100;
+}
+
+@media (min-width:768px) {
+    .test-container {
+        padding-right: 150px;
+    }
 }
 
 
@@ -433,7 +436,6 @@ i {
     position: relative;
     height: 100vh;
 }
-
 
 .comntact-container {
     background-color: #e1e1e1;
