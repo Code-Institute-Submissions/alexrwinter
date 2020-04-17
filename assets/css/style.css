@@ -101,8 +101,9 @@ i {
 
 @media (min-width:767px) {
 #main-navbar {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
     padding-right:0;
     padding-top:0;
     margin-top:0;
@@ -123,10 +124,16 @@ i {
 .nav-item {
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 21px;
     text-align: center;
     padding-bottom: 20px;
     padding-top: 20px;
+}
+
+.nav-item:active
+.nav-item:hover
+.nav-item:active-focus {
+    font-weight:400;
 }
 
 
@@ -354,7 +361,7 @@ i {
 /*---------------------------------------------------Services--*/
 .services-container {
     background-color: #fff;
-    padding: 60px 40px;
+    padding: 90px 40px 80px 40px;
 }
 
 @media (min-width: 992px) {
@@ -384,54 +391,17 @@ i {
     }
 }
 
-
-/*---------------------------------------------------Testimonials--*/
-    
-.test-container {
-    background-color: #548788;
-    color: #fff;
-    padding: 60px 40px;
-    text-align: center;
-    font-size: 15px;
-}
-
-.logo-image {
-    text-align: center;
-}
-
-.logo-text > hr {
-}
-
-.logo-text {
-    font-size: 17px;
-    font-weight: 200;
-    font-family: 'Raleway', sans-serif;
-    margin-bottom: 40px;
-}
-
-.test-name {
-    font-size: 23px;
-    font-weight:100;
-}
-
-@media (min-width:768px) {
-    .test-container {
-        padding-right: 150px;
-    }
-}
-
 /*---------------------------------------------------Projects--*/
 
 .projects-container {
     background-color: #155763;
-    padding:60px 40px;
+    padding:80px 40px;
 }
 
 .projects-container li {
     list-style: none;
     float: left;
-    width: 20%;
-    margin: 20px;
+    width: 25%;
 }
 
 @media (min-width:768px){
@@ -439,6 +409,7 @@ i {
        padding-right: 150px;
     }
 }
+
 .film-poster {
     width: 100%;
     margin: 0;
@@ -460,4 +431,49 @@ i {
     transition: transform 0.5s;
 }
 
+.photo-label{
+    font-size: 15px;
+    text-align:center;
+    padding: 10px 0 20px 0;
+}
+
+@media (min-width: 768px) {
+    .photo-label {
+        font-size: 18px;
+    }
+}
+/*---------------------------------------------------Testimonials--*/
+    
+.test-container {
+    background-color: #548788;
+    color: #fff;
+    padding: 60px 40px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.logo-image {
+    text-align: center;
+}
+
+.logo-text > hr {
+}
+
+.logo-text {
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 40px;
+}
+
+.test-name {
+    font-size: 23px;
+    font-weight:100;
+}
+
+@media (min-width:768px) {
+    .test-container {
+        padding-right: 150px;
+    }
+}
 /*---------------------------------------------------Contact--*/
