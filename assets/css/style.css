@@ -10,6 +10,8 @@
     font-size: 25px;
 }
 
+
+
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
@@ -27,6 +29,12 @@ h1 {
     }
 }
 
+@media (max-width: 576px) {
+    h1{
+        font-size: 20px;
+    }
+}
+
 h2 {color: #548788;
     margin-bottom: 15px;
     font-weight: 200;
@@ -40,6 +48,12 @@ h3 {
 .lead {
     font-size: 25px;
     font-weight:200;
+}
+
+@media (max-width: 576px) {
+    .lead {
+        font-size: 20px;
+    }
 }
 
 .p a {
@@ -88,7 +102,7 @@ i {
 /*---------navbar scrolling--------------*/
 #main-navbar {
     font-family: 'Raleway', sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     padding-right:0;
     padding-top:0;
     margin-top:0;
@@ -141,27 +155,6 @@ i {
 }
 
 /*-----------------------------------------------------buttons and links*/
-
-.alex-text {
-    font-family: 'Raleway', sans-serif;
-    font-size: 35px;
-    font-weight: 400;
-    text-decoration: none;
-    color: #fff;
-    padding-bottom: 40px;
-}
-
-@media (min-width:922px) {
-    .alex-text {
-        font-size:40px;
-    }
-}
-
-.alex-text:hover{
-    text-decoration: none;
-    color: #fff;
-    transition-duration: 0.5s;
-}
 
 .imdb-main {
     color:#fffd95;
@@ -245,6 +238,28 @@ i {
     color: #fff;
     font-family: 'Raleway', sans-serif;
     max-height: 100vh;
+}
+
+@media (max-width: 576px){
+    .title-container {
+        padding-bottom:0;
+        
+    }
+}
+
+.alex-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    padding-bottom: 40px;
+}
+
+@media (min-width:922px) {
+    .alex-text {
+        font-size:40px;
+    }
 }
 
 .title-animation1 {
