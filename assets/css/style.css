@@ -312,6 +312,8 @@ i {
     font-size: 20px;
 }
 
+
+
 @media (min-width: 576px) {
     .about-container {
         padding: 80px;
@@ -334,7 +336,16 @@ i {
     padding-top: 60px;
     text-align: center;
     opacity: 0.6;
-    
+}
+
+.alex-image-wrapper {
+    margin-top: 40px;
+}
+
+@media (min-width: 992px){
+    .alex-image-wrapper {
+        margin-left: 20px;
+    }
 }
 
 .alex-image:hover {
