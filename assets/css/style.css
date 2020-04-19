@@ -10,38 +10,46 @@
     font-size: 25px;
 }
 
-h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
-    }
-
 h1 {
-    color: #ffffff;
-    font-size: 40px;
-    font-weight:400;
-    }
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
 
 @media (min-width:922px) {
     h1 {
-        font-size:45px;
+        font-size:40px;
     }
 }
 
-@media (max-width: 576px) {
-    h1{
-        font-size: 20px;
+h2 {
+    font-family:'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight:100;
     }
-}
 
-h2 {color: #548788;
+.about-text>h2 {
     margin-bottom: 15px;
-    font-weight: 200;
+}
+
+.service-text>h2,
+.contact>h2 {
+    color: #548788;
+}
+.service-text>h2 {
+    font-weight: 400;
 }
 
 h3 {
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
+    font-size: 30px;
     font-weight: 100;
-}
+    }
+
 
 .lead {
     font-size: 25px;
@@ -54,11 +62,19 @@ h3 {
     }
 }
 
-.p a {
+p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+p a {
     text-decoration: none;
-    color: #e1e1e1;
+    color: #fff;
     font-weight:bold
 }
+
 
 i {
     padding: 15px;
@@ -239,6 +255,21 @@ i {
     transition-duration: 0.2s;
 }
 
+.btn-read-more {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background-color: #548788;
+    font-weight:bold;
+}
+
+.btn-read-more:hover,
+.btn-read-more:active {
+    text-decoration: none;
+    color: #fff;
+    background-color: #155763;
+    
+}
 /*---------------------------------------------------Home--*/
 .soundwaves-container{
     background: url("../images/seagreens.jpg") no-repeat right center fixed; 
@@ -269,21 +300,6 @@ i {
     }
 }
 
-.alex-text {
-    font-family: 'Raleway', sans-serif;
-    font-size: 35px;
-    font-weight: 400;
-    text-decoration: none;
-    color: #fff;
-    padding-bottom: 40px;
-}
-
-@media (min-width:922px) {
-    .alex-text {
-        font-size:40px;
-    }
-}
-
 .title-animation1 {
     animation-delay: 0.5s;
 }
@@ -299,15 +315,9 @@ i {
 
 /*---------------------------------------------------About--*/
 .about-container {
-    background-color: rgba(84,135,136, 1);
-    color: #fff;
-    font-family: 'Raleway', sans-serif;
-    padding:60px 40px;
-    font-weight: 200;
-    font-size: 20px;
+    background-color: #548788;
+    padding: 40px 40px;
 }
-
-
 
 @media (min-width: 576px) {
     .about-container {
@@ -319,12 +329,6 @@ i {
     .about-container h3 {
         font-size: 35px;
     }
-}
-
-.about-text a {
-    text-decoration: none;
-    color: #fff;
-    font-weight:bold;
 }
 
 .alex-image {
@@ -347,24 +351,9 @@ i {
     transition-duration: 1s;
 }
 
-.btn-read-more {
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    color: #fff;
-    background-color: #548788;
-    font-weight:bold;
-}
-
-.btn-read-more:hover,
-.btn-read-more:active {
-    text-decoration: none;
-    color: #fff;
-    background-color: #155763;
-    
-}
-
 /*---------------------------------------------------Services--*/
 .services-container {
+    color: #548788;
     background-color: #fff;
     padding: 90px 50px 80px 40px;
 }
@@ -377,11 +366,13 @@ i {
 }
 
 .service-text {
-    color: #548788;
-    font-family: 'Raleway', sans-serif;
     text-align: center;
-    font-size: 18px;
     padding-bottom: 40px;
+}
+
+.service-text p {
+    color: #548788;
+    font-weight: 300;
 }
 
 @media (min-width: 576px) {
@@ -396,7 +387,61 @@ i {
     }
 }
 
+/*---------------------------------------------------Projects--*/
 
+.projects-container {
+    background-color: #155763;
+    padding:80px 40px;
+}
+
+
+@media (min-width:768px){
+    .projects-container {
+       padding-right: 150px;
+    }
+}
+
+.film-projects {
+    text-align: center;
+}
+
+.film-poster {
+    width: 100%;
+    margin: 0;
+    background-color: #000000;
+}
+
+.film-poster img {
+    opacity: 0.7;
+    width: 100%;
+    height: auto;
+}
+
+.film-poster img:hover,
+.film-poster img:visited {
+    opacity: 1;
+}
+
+.photo-label{
+    font-size: 8px;
+    text-align:center;
+    padding-top: 10px;
+}
+
+@media (min-width: 576px) {  
+ .photo-label {
+     padding-top: 20px;
+     font-size: 15px;
+ }
+}
+
+@media (min-width: 992px) {
+    .photo-label {
+        font-size: 20px;
+        font-weight: lighter;
+        padding-top: 35px;
+    }
+}
 
 /*---------------------------------------------------Testimonials--*/
     
@@ -463,58 +508,5 @@ i {
 
 
 
-/*---------------------------------------------------Projects--*/
 
-.projects-container {
-    background-color: #155763;
-    padding:80px 40px;
-}
-
-
-@media (min-width:768px){
-    .projects-container {
-       padding-right: 150px;
-    }
-}
-
-.film-projects {
-    text-align: center;
-}
-
-.film-poster {
-    width: 100%;
-    margin: 0;
-    background-color: #000000;
-}
-
-.film-poster img {
-    opacity: 0.7;
-    width: 100%;
-    height: auto;
-}
-
-.film-poster img:hover {
-    opacity: 1;
-}
-
-.photo-label{
-    font-size: 8px;
-    text-align:center;
-    padding-top: 10px;
-}
-
-@media (min-width: 576px) {  
- .photo-label {
-     padding-top: 20px;
-     font-size: 15px;
- }
-}
-
-@media (min-width: 992px) {
-    .photo-label {
-        font-size: 20px;
-        font-weight: lighter;
-        padding-top: 35px;
-    }
-}
 
