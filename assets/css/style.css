@@ -83,20 +83,26 @@ i {
 }
 
 .block-divider {
-    background-color: #ffffff;
     width: 80px;
     height:2px;
 }
 
 .block-divider-sm {
-    background-color: #548788;
     width: 40px;
     height:1px;
 }
 
+.divider-green {
+    background-color: #548788;
+}
+
+.divider-white {
+    background-color: #ffffff;
+}
+
 @media (min-width:992px){
 .block-divider-projects {
-    background-color: #fff;
+    background-color: #548788;
     height: 0.2px;
     width: 60px;
 }
@@ -321,15 +327,13 @@ i {
     padding: 40px 40px;
 }
 
-@media (min-width: 576px) {
-    .about-container {
-        padding: 80px;
-    }
+.about-text {
+    margin: 30px 0;
 }
 
 @media (min-width: 576px) {
-    .about-container h2 {
-        font-size: 35px;
+    .about-container {
+        padding: 80px;
     }
 }
 
@@ -357,7 +361,7 @@ i {
 .services-container {
     color: #548788;
     background-color: #fff;
-    padding: 90px 50px 80px 40px;
+    padding: 70px 50px 30px 40px;
 }
 
 @media (min-width: 992px) {
@@ -391,6 +395,10 @@ i {
 
 /*---------------------------------------------------Projects--*/
 
+.projects-heading {
+    text-align: center;
+    padding-bottom: 30px;
+}
 .projects-container {
     background-color: #155763;
     padding:80px 40px;
@@ -425,7 +433,7 @@ i {
 }
 
 .photo-label{
-    font-size: 10px;
+    font-size: 12px;
     text-align:center;
     padding-top: 5px;
 }
@@ -440,13 +448,16 @@ i {
 @media (min-width: 992px) {
     .photo-label {
         font-size: 20px;
-        font-weight: lighter;
+        font-weight: 100;
         padding-top: 35px;
     }
 }
 
 /*---------------------------------------------------Testimonials--*/
-    
+
+.test-heading {
+    padding-bottom: 30px;
+}
 .test-container {
     background-color: #548788;
     padding: 60px 40px;
@@ -469,7 +480,7 @@ i {
 }
 
 
-@media (min-width: 992px) {
+@media (min-width: 786px) {
     .testimonial {
         padding-top: 35px;
         font-size: 20px;
@@ -480,7 +491,7 @@ i {
     font-weight: 400;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .test-name {
         font-size: 25px;
         font-weight: 300;
