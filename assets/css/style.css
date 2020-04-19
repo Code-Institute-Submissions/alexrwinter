@@ -18,7 +18,7 @@ h1 {
     padding-bottom: 40px;
 }
 
-@media (min-width:922px) {
+@media (min-width:768px) {
     h1 {
         font-size:40px;
     }
@@ -30,6 +30,10 @@ h2 {
     font-size: 30px;
     font-weight:100;
     }
+
+@media (min-width: 768px) {  
+h2 { font-size: 35px;}
+}
 
 .about-text>h2 {
     margin-bottom: 15px;
@@ -44,30 +48,28 @@ h2 {
     font-weight: 400;
 }
 
-h3 {
-    font-family: 'Montserrat', sans-serif;
-    color: #fff;
-    font-size: 30px;
-    font-weight: 100;
-    }
-
-
 .lead {
-    font-size: 25px;
+    font-size: 20px;
     font-weight:200;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
     .lead {
-        font-size: 20px;
+        font-size: 25px;
     }
 }
 
 p {
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 200;
+}
+
+@media (min-width: 768px) {  
+    p {
+        font-size: 20px;
+        }
 }
 
 p a {
@@ -75,7 +77,6 @@ p a {
     color: #fff;
     font-weight:bold
 }
-
 
 i {
     padding: 15px;
@@ -327,7 +328,7 @@ i {
 }
 
 @media (min-width: 576px) {
-    .about-container h3 {
+    .about-container h2 {
         font-size: 35px;
     }
 }
@@ -373,7 +374,7 @@ i {
 
 .service-text p {
     color: #548788;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 @media (min-width: 576px) {
@@ -464,23 +465,27 @@ i {
 }
 
 .testimonial {
-    font-size: 15px;
+    font-size: 17px;
 }
 
-@media (min-width: 768px) {  
- .testimonial {
-     font-size: 18px;
- }
-}
 
 @media (min-width: 992px) {
     .testimonial {
-        font-size: 20px;
-        font-weight: lighter;
         padding-top: 35px;
+        font-size: 20px;
     }
 }
 
+.test-name {
+    font-weight: 400;
+}
+
+@media (min-width: 992px) {
+    .test-name {
+        font-size: 25px;
+        font-weight: 300;
+    }
+}
 /*---------------------------------------------------Contact--*/
 
 #contact {
