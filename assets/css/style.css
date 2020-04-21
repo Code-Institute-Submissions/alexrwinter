@@ -258,13 +258,16 @@ i {
 }
 
 .btn-submit {
+    margin-top: 15px;
     padding: 22px 10px;
 }
 
-.btn-submit:visited,
-.btn-submit:active {
+
+.btn-submit:hover,
+.btn-submit:active,
+.btn-submit:focus,
+.btn-submit:visited {
     color: #fff;
-    background-color: #155763;
 }
 
 .btn-read-more {
@@ -530,6 +533,8 @@ i {
         padding: 40px 60px;
     }
 }
+
+
 /*---------------------------------------------------Footer--*/
 
 footer {
@@ -542,7 +547,6 @@ footer {
     color:#fff;
     font-size: 30px;
     text-align: center;
-    
 }
 
 .social-media ul {
