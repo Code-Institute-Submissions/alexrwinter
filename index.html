@@ -316,22 +316,32 @@
 		<form>
 			<div class="form-wrapper">
 				<div class="form-group row">
-					<label for="inputName" class="col-sm-2 col-form-label">Name</label>
-					<div class="col-sm-8">
-						<input type="name" class="form-control" id="inputName">
+					<label for="inputFirstName" class="col-sm-2 col-form-label">Name*</label>
+					<div class="col-sm-4">
+						<input type="name" class="form-control" id="inputFirstName">
+                        <small id="firstnameHelpBlock" class="form-text text-muted">First Name</small>
+                </div>
+					<div class="col-sm-4">
+						<input type="name" class="form-control" id="inputLastName">
+                        <small id="lastnameHelpBlock" class="form-text text-muted">Last Name</small>
                 </div>
 					</div>
 					<div class="form-group row">
-						<label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+						<label for="inputEmail" class="col-sm-2 col-form-label" >Email*</label>
 						<div class="col-sm-8">
-							<input type="email" class="form-control" id="inputEmail3">
+							<input type="email" class="form-control" id="inputEmail" placeholder="name@example.com">
                 </div>
 						</div>
-						<div class="form-group row">
-							<label for="inputMessage" class="col-sm-2 col-form-label">Message</label>
+                        <div class="form-group row">
+							<label for="inputSubject" class="col-sm-2 col-form-label">Subject</label>
 							<div class="col-sm-8">
-								<input type="message" class="form-control" id="inputMessage">
-								<small id="messageHelpBlock" class="form-text text-muted"></small>
+								<input type="Subject" class="form-control" id="inputSubject">
+							</div>
+						</div>
+						<div class="form-group row">
+							<label for="inputMessage" class="col-sm-2 col-form-label">Message*</label>
+							<div class="col-sm-8">
+								<input type="message" class="form-control text-area" id="inputMessage">
 							</div>
 						</div>
 						<button type="submit" class="btn btn-contact btn-submit">Submit</button>
