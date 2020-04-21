@@ -90,9 +90,17 @@ p {
 }
 
 p a {
-    text-decoration: none;
     color: #fff;
-    font-weight:bold
+    text-decoration: none;
+    font-weight:bold;
+}
+
+p a:hover,
+p a:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #155763;
+    
 }
 
 i {
@@ -232,16 +240,14 @@ i {
 }
 
 .btn-contact {
-    
     font-family: 'Raleway', sans-serif;
     background-color: #548788;
     color:#fff;
     border-radius: 50%;
+     padding-top: 34px;
+    padding-bottom: 34px;
 }
 
-.btn-contact a {
-    text-decoration: none;
-}
 .btn-contact:hover,
 .btn-contact:active,
 .btn-contact:focus,
@@ -249,12 +255,6 @@ i {
     background-color: #155763;
     color: #fff;
     transition-duration: 0.3s;
-}
-
-
-.btn-contact-contact {
-    padding-top: 34px;
-    padding-bottom: 34px;
 }
 
 .btn-services {
@@ -267,7 +267,7 @@ i {
     margin: 0;
 }
 
-.btn-services>i {
+/*.btn-services>i {
     font-size: 30px;
 }
 
@@ -277,7 +277,7 @@ i {
     text-decoration: none;
     color: #155763;
     transition-duration: 0.2s;
-}
+}*/
 
 .btn-read-more {
     font-family: 'Raleway', sans-serif;
