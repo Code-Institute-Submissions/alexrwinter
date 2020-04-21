@@ -232,12 +232,16 @@ i {
 }
 
 .btn-contact {
+    
     font-family: 'Raleway', sans-serif;
     background-color: #548788;
     color:#fff;
     border-radius: 50%;
 }
 
+.btn-contact a {
+    text-decoration: none;
+}
 .btn-contact:hover,
 .btn-contact:active,
 .btn-contact:focus,
@@ -247,15 +251,10 @@ i {
     transition-duration: 0.3s;
 }
 
+
 .btn-contact-contact {
     padding-top: 34px;
     padding-bottom: 34px;
-}
-
-.btn-contact-sayhi {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    
 }
 
 .btn-services {
