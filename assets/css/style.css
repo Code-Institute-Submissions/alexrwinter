@@ -544,3 +544,10 @@ footer {
     text-align: center;
     
 }
+
+.social-media ul {
+    list-style: none;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
