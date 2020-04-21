@@ -244,7 +244,7 @@ i {
     background-color: #548788;
     color:#fff;
     border-radius: 50%;
-     padding-top: 34px;
+    padding-top: 34px;
     padding-bottom: 34px;
 }
 
@@ -257,7 +257,11 @@ i {
     transition-duration: 0.3s;
 }
 
-.btn-services {
+.btn-submit {
+    padding: 22px 10px;
+}
+
+/*.btn-services {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     color:#548788;
