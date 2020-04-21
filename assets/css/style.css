@@ -522,13 +522,19 @@ i {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     color:#548788;
-    padding: 40px 40px;
+    padding: 30px 10px 40px 10px;
 }
 
+@media (min-width: 768px){
+    .font-wrapper {
+        padding: 40px 60px;
+    }
+}
 /*---------------------------------------------------Footer--*/
 
 footer {
     background-color: #155763;
+    word-wrap: break-word;
 }
 .social-media a {
     list-style: none;
