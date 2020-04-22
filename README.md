@@ -2,10 +2,10 @@
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
 
 <p>A professional website for a self-employed Sound Designer/Editor (who I will refer to as 'A Winter') working mainly for film and TV.
-The website includes a brief professional 'about' summary for Alex R Winter, a summary of services provided, project history, testimonials and contact details.
+The website includes a brief professional 'about' summary for Alex R Winter, a summary of services provided, project history, testimonials from previous collaborators/ clients and contact details.
 The fundamental purpose of the website is to encourage potential collaborators and clients to make contact with A Winter.</p>
 
-<p>B2B website...</p>
+<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) will give a sense of reliability, which will be backed up by on-site testimonials.</p>
 
 <h2>Business Objectives</h2>
 - Promote the service provided (i.e.post production sound)<br>
@@ -15,14 +15,14 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Give a clean, modern, professional image
 
 <h2>Client Objectives</h2>
-- Looking for a sound editor for their project, or working in a related field looking for contacts
-- Clear and simple information
-- Find out the credibility of individual/ service
-- Get a sense of who this person is (a personable yet professional image: someone they want to work with or know professionally)
-- Easy to contact and easy to connect with online (esp. LinkedIn)
+- Looking for a sound editor for their project, or working in a related field looking for contacts<br>
+- Clear information about what services are provided<br>
+- Find out the credibility of individual/ service<br>
+- Get a sense of who this person is (a personable yet professional image: someone they want to work with or know professionally)<br>
+- Easy to contact and easy to connect with online (esp. LinkedIn)<br>
 
+The website will include services provided, contact information, imdb profile, testimonials from previos employers/clients, previous films worked on and links to social media.
 
-The website will include services provided, contact information, imdb profile, testimonials from previos employers/clients, previous films worked on and links to social media. It will not include a CV due to the niche area of work and relevance to projects worked on rather than employment history.
 
 The layout will be a continuous page, with clearly divided sections. There will be an extra 'about me' section which can be expanded into a new window. The decision to use one page is so that the information is presented in a clear and simple way. Including an about me allows for the emplyer to view the potential employee in a more personal way, as this is a self-employed person rather than a business. However, including too much personal information on the main page will clutter the clear and professional message and layout which we want to present.
 
