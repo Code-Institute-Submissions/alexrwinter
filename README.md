@@ -39,12 +39,11 @@ contact
 <p>The colour scheme will be greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The colour scheme communicates careful thought, precision, intelligence, approachability, and creativity. The hero image is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from green to white and an image of digital sound waves.</p>
 
 <h3>Home</h3>
-<p>The website landing page will be clear and simple with a hero image which represents the service/ industry. The brand name (Alex R Winter) and the service provided will be the most obvious elements of the page for clarity's sake, followed by a large contact button. The landing page will also have a nav header with a link to A Winter's IMDb page as this is the most important online presence in terms of this industry. There will be an arrow indicating that the user should scroll so that the existence of more comntent is clear and intuitive.</p>
-
+<p>The website landing page will be clear and simple with a hero image which represents the service/ industry. The brand name (Alex R Winter) and the service provided will be the most obvious elements of the page for clarity's sake, followed by a large contact button. The landing page will also have a nav header with a link to Alex Winter's IMDb page as this is the most important online presence in terms of this industry. There will be an arrow indicating that the user should scroll so that the existence of more comntent is clear and intuitive.</p>
 
 <h3>About</h3>
- Including an about me allows for the emplyer to view the potential employee in a more personal way, as this is a self-employed person rather than a business. However, including too much personal information on the main page will clutter the clear and professional message and layout which we want to present.
- 
+<p>Including an 'about' section allows for client to view the potential collaborator in a more personal way; this is a self-employed person rather than a business. It also gives the opportunity to summarise Alex Winter's professional and academic background in the field. This will be very brief (including too much personal information on the main page will clutter the clear and professional message and layout which we want to present). On mobile and tablet some of this information will be expandable. The page will also include a 'Let's work tohether' link to the contact section. On tablets and larger screens, the section will also include a photograph.</p>
+
 <h3>Services</h3>
 
 <h3>Projects</h3>
