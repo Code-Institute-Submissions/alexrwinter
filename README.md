@@ -33,7 +33,7 @@ contact
 
 
 <h2>Features</h2>
-<p>The pages are divided into sections on a scroll format for a modern appearance and to create a sense of simplicity, continuity and clarity.</p>
+<p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
 <p>The website's main navigation bar is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space.</p>
 <p>The bottom of the website has a footer to hold all the social media links and sits beneath the other contact information at the base of the page.</p>
 <p>The colour scheme will be greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The colour scheme communicates careful thought, precision, intelligence, approachability, and creativity. The hero image is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from green to white and an image of digital sound waves.</p>
@@ -45,6 +45,7 @@ contact
 <p>Including an 'about' section allows for client to view the potential collaborator in a more personal way; this is a self-employed person rather than a business. It also gives the opportunity to summarise Alex Winter's professional and academic background in the field. This will be very brief (including too much personal information on the main page will clutter the clear and professional message and layout which we want to present). On mobile and tablet some of this information will be expandable. The page will also include a 'Let's work tohether' link to the contact section. On tablets and larger screens, the section will also include a photograph.</p>
 
 <h3>Services</h3>
+<p>Services can be broken down into three main items, which are briefly expalined in a context of 'what I can do for you' with an explanation for clarity. They will be under three headers and have icons to symbolise the processes. This information will not be collapsible because they are short paragraphs and easy to scroll past if they aren't of interest to the viewer.</p>
 
 <h3>Projects</h3>
 
