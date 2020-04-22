@@ -34,7 +34,7 @@ contact
 
 <h2>Features</h2>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
-<p>The website's main navigation bar is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space.</p>
+<p>The website's main navigation bar is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. The navigation bar also has a link to IMDb on it so that the its presence is always visible.</p>
 <p>The bottom of the website has a footer to hold all the social media links and sits beneath the other contact information at the base of the page.</p>
 <p>The colour scheme will be greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The colour scheme communicates careful thought, precision, intelligence, approachability, and creativity. The hero image is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from green to white and an image of digital sound waves.</p>
 
@@ -45,26 +45,17 @@ contact
 <p>Including an 'about' section allows for client to view the potential collaborator in a more personal way; this is a self-employed person rather than a business. It also gives the opportunity to summarise Alex Winter's professional and academic background in the field. This will be very brief (including too much personal information on the main page will clutter the clear and professional message and layout which we want to present). On mobile and tablet some of this information will be expandable. The page will also include a 'Let's work tohether' link to the contact section. On tablets and larger screens, the section will also include a photograph.</p>
 
 <h3>Services</h3>
-<p>Services can be broken down into three main items, which are briefly expalined in a context of 'what I can do for you' with an explanation for clarity. They will be under three headers and have icons to symbolise the processes. This information will not be collapsible because they are short paragraphs and easy to scroll past if they aren't of interest to the viewer.</p>
+<p>Services can be broken down into three main items, which are briefly expalined in a context of 'what I can do for you' with an explanation for clarity. They come under three headers and have icons to symbolise the processes. This information isn't collapsible because they are short paragraphs and easily scrolled past if they aren't of interest to the viewer. The section is responsive and the content changes from being organised horizonally on larger screens to vertically on smaller screens.</p>
 
 <h3>Projects</h3>
+<p>The projects features films which Alex Winter has worked on. The film is named, along with the year of release and the job title. There is an image cut from the poster of the film which acts as a link to the releavnt IMDb page and responds visually to hovering to make the fact that the image is 'clickable' clear. This shows Alex Winter's experience in the services which are described in the previous section.</p>
 
 <h3>Testimonials</h3>
+<p>The testimonials section builds on the previous two sections and features two glowing testimonials from past collaborators. This content is also responsive, shifting from horizontal on larger screens to vertical on smaller screens.</p>
 
 <h3>Contact</h3>
-
-
-
-
-
-The sections that follow will be:
-1. A brief 'about' statement including values/ approach/ credentials -> this will link to another 'about me' page in a new tab if the user desires. 
-2. Services provided (with more detail)
-3. Testimonials from clients
-4. Projects/Films worked on -> this will include links to the film's imdb pages.
-5. Contact & social media (with a 'footer' appearance)
-
-
+<p>The contact section, which is linked to from various other points in the website offers various different way of contacting Alex Winter, from a user-friendly contact form which is headed with a 'Let's work together' and an invitaion to get in touch for different reasons with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons: also, contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
+<p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 
 Resources:
 
