@@ -8,10 +8,10 @@ The fundamental purpose of the website is to encourage potential collaborators a
 <p>B2B website...</p>
 
 <h2>Business Objectives</h2>
-- Promote the service provided (i.e.post production sound)
-- Create business connections by encouraging clients to make contact
-- Excellent UX design to encourage this and keep clients on the page
-- Clearly display the credentials of A Winter in his field
+- Promote the service provided (i.e.post production sound)<br>
+- Create business connections by encouraging clients to make contact <br>
+- Excellent UX design to encourage this and keep clients on the page<br>
+- Clearly display the credentials of A Winter in his field<br>
 - Give a clean, modern, professional image
 
 <h2>Client Objectives</h2>
