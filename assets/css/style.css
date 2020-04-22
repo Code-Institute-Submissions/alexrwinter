@@ -221,9 +221,14 @@ i {
    } 
 }
 
+.chevron:visited {
+    color: #fff;
+}
 .chevron:hover {
     color: #155763;
 }
+
+
 
 /*---------------------------------------------------Buttons and Links--*/
 
@@ -373,7 +378,7 @@ i {
 
 @media (min-width: 992px) {
     .services-container {
-        padding: 80px;
+        padding: 90px 80px 80px 80px;
         padding-right:150px;
     }
 }
@@ -520,6 +525,10 @@ i {
     font-size: 15px;
 }
 
+.contact-row {
+    margin: 0 10%;
+}
+
 /*---------------------------------------------------Contact Form--*/
 .form-wrapper {
     font-family: 'Raleway', sans-serif;
@@ -532,10 +541,6 @@ i {
     .font-wrapper {
         padding: 40px 60px;
     }
-}
-
-.message-col {
-    rows: "3";
 }
 
 /*---------------------------------------------------Footer--*/
