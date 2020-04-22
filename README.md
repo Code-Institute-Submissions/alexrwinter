@@ -1,13 +1,26 @@
-Alex R Winter: Sound Engineer, professional website.
 
-The business objectives of this project are to create a professional website for a self-employed Sound Editor working mainly for film and TV.
-The client has an existing previous website for a studio business he ran and wants a new website which is just for him and his services as a self-employed Sound Editor. The client's previous website was quite 'busy', the information was not clearly laid out, and the colours were dark and hot (black, red, purple). We are going for a new, cleaner and clearer, modern and professional image.
+<h1 align="center">Alex R Winter: Post Production Sound</h1>
 
-The client wants to market their service to reach a wider client base and get hired. Employers will want to see examples of projects my client has worked on and his experience and successes in this area of work. Employers should be able to easily view what services my client provides, his expertise in his area of work, and be able to contact my client easily.
+<p>A professional website for a self-employed Sound Designer/Editor (who I will refer to as 'A Winter') working mainly for film and TV.
+The website includes a brief professional 'about' summary for Alex R Winter, a summary of services provided, project history, testimonials and contact details.
+The fundamental purpose of the website is to encourage potential collaborators and clients to make contact with A Winter.</p>
 
-Business objectives: promote service, get contacted by employers, get hired.
+<p>B2B website...</p>
 
-User objectives: Find out about services provided, see the credibility of the individual and contact the individual easily.
+<h2>Business Objectives</h2>
+- Promote the service provided (i.e.post production sound)
+- Create business connections by encouraging clients to make contact
+- Excellent UX design to encourage this and keep clients on the page
+- Clearly display the credentials of A Winter in his field
+- Give a clean, modern, professional image
+
+<h2>Client Objectives</h2>
+- Looking for a sound editor for their project, or working in a related field looking for contacts
+- Clear and simple information
+- Find out the credibility of individual/ service
+- Get a sense of who this person is (a personable yet professional image: someone they want to work with or know professionally)
+- Easy to contact and easy to connect with online (esp. LinkedIn)
+
 
 The website will include services provided, contact information, imdb profile, testimonials from previos employers/clients, previous films worked on and links to social media. It will not include a CV due to the niche area of work and relevance to projects worked on rather than employment history.
 
