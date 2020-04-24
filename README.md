@@ -65,15 +65,17 @@ Images for project films without posters: Photo by Denise Jans on Unsplash
 Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions
 Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)
 Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group
-Alex portrait Image by Tristan Sherfield
+Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a>
 
 <h2>Technologies Used</h2>
-<a href="www.gitpod.io">Gitpod</a> Gitpod was used as the IDE whilst building the webiste.
-<a href="www.github.com">GitHub</a> The project was developed in Gitpod and then committed and pushed to its GitHub respository, from where this website can be deployed.
-<a href="https://www.bootstrapcdn.com/">BootstrapCND v4.4.1</a> Bootstrap was used for the structure and responsiveness of the website, for responsive components i.e the navigation bar, and for button functionality.
-<a href="https://jquery.com/">jQuery</a>
-<a href="https://popper.js.org/">Popper.js</a> The website also uses jQuery, Popper.js and Bottrap's Javascript plugins to make the navigation bar responsive.
-<a href="https://fonts.google.com/">Google Fonts</a> The website uses Google fonts for font styling.
+- This project uses HTML and CSS programming languages.
+- <a href="www.gitpod.io">Gitpod</a> Gitpod was used as the IDE whilst building the webiste.
+- <a href="www.github.com">GitHub</a> The project was developed in Gitpod and then committed and pushed to its GitHub respository, from where this website can be deployed.
+- <a href="https://www.bootstrapcdn.com/">BootstrapCND v4.4.1</a> Bootstrap was used for the structure and responsiveness of the - website, for responsive components i.e the navigation bar, and for button functionality.
+- <a href="https://jquery.com/">jQuery</a>, <a href="https://popper.js.org/">Popper.js</a> and Bottrap's Javascript plugins are used to make the navigation bar responsive.
+- <a href="https://fonts.google.com/">Google Fonts</a> The website uses Google fonts for font styling.
 >a href="https://daneden.github.io/animate.css/">Animate.css</a> Animate.css via Github was used to animate the chevron and the title text. 
-<a href="https://fontawesome.com/">Font Awesome</a> Font Awesome provided the icons in this project.
-<a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.
+- <a href="https://fontawesome.com/">Font Awesome</a> Font Awesome provided the icons in this project.
+- <a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.
+- <a href="https://validator.w3.org/">W3C Validation service</a> was used to check HTML.
+- <a href"https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.
