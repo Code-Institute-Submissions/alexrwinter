@@ -87,3 +87,4 @@ contact
 - Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)<br>
 - Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group<br>
 - Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
+- copy written by Sophie Murray on behalf of Alex R Winter
