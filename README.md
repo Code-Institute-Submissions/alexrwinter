@@ -57,10 +57,23 @@ contact
 <p>The contact section, which is linked to from various other points in the website, offers various different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 
-Resources:
 
-hover.css - buttons
-https://uigradients.com/ - background gradient
-Image by OpenClipart-Vectors from Pixabay 
-font awesome
-animate.css via cndjs & github
+<h2>Credits</h2>
+Sound waves vector image by OpenClipart-Vectors from Pixabay
+Hero image by Sophie Murray (created for website)
+Images for project films without posters: Photo by Denise Jans on Unsplash
+Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions
+Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)
+Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group
+Alex portrait Image by Tristan Sherfield
+
+<h2>Technologies Used</h2>
+<a href="www.gitpod.io">Gitpod</a> Gitpod was used as the IDE whilst building the webiste.
+<a href="www.github.com">GitHub</a> The project was developed in Gitpod and then committed and pushed to its GitHub respository, from where this website can be deployed.
+<a href="https://www.bootstrapcdn.com/">BootstrapCND v4.4.1</a> Bootstrap was used for the structure and responsiveness of the website, for responsive components i.e the navigation bar, and for button functionality.
+<a href="https://jquery.com/">jQuery</a>
+<a href="https://popper.js.org/">Popper.js</a> The website also uses jQuery, Popper.js and Bottrap's Javascript plugins to make the navigation bar responsive.
+<a href="https://fonts.google.com/">Google Fonts</a> The website uses Google fonts for font styling.
+>a href="https://daneden.github.io/animate.css/">Animate.css</a> Animate.css via Github was used to animate the chevron and the title text. 
+<a href="https://fontawesome.com/">Font Awesome</a> Font Awesome provided the icons in this project.
+<a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.
