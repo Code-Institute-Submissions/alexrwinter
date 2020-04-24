@@ -23,19 +23,16 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Easy to contact and easy to connect with online (esp. LinkedIn)<br>
 
 <h2>Wireframes</h2>
-home
-about
-services
-projects
-testimonials
-contact
-...
+
+Wireframes for mobile, iPad and Desktop can be seen at:
+
+https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 
 
 <h2>Features</h2>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
-<p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. Both the navigation bar and the <strong>header</strong> have a link to IMDb on it so that the its presence is always visible.</p>
-<p>In terms of connecting with potential clients, the website features a user-friendly <stong>contact form</strong>. The bottom of the website has a <strong>footer</strong> to hold all the social media links and sits beneath the other contact information at the base of the page. This section is linked to from various other points in the site, including a large <strong>'call to action' button</strong> on the landing page.</p>
+<p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical, sticks to the top right of the page and is always visible. On mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. On both smaller and larger screens the navigation bar has a scrollspy which allows the user to see which psection they are viewing. Both the navigation bar and the <strong>header</strong> have a link to IMDb on it so that the its presence is always visible.</p>
+<p>In terms of connecting with potential clients, the website features a user-friendly <stong>contact form</strong> with required fields and a required valid email address. The bottom of the website has a <strong>footer</strong> to hold all the social media links and sits beneath the other contact information at the base of the page. This section is linked to from various other points in the site, including a large <strong>'call to action' button</strong> on the landing page.</p>
 <p>The colour scheme is greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The <strong>hero image</strong> is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from white to green and an image of digital sound waves. Some <strong>animations</strong> are also used on the landing page to 'welcome' the user to the website.</p>
 
 <h3>Home</h3>
