@@ -34,21 +34,21 @@ contact
 
 <h2>Features</h2>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
-<p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. The navigation bar also has a link to IMDb on it so that the its presence is always visible.</p>
-<p>The bottom of the website has a <strong>footer</strong> to hold all the social media links and sits beneath the other contact information at the base of the page.</p>
-<p>The colour scheme will be greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The <strong>hero image</strong> is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from white to green and an image of digital sound waves.</p>
+<p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical whilst on mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. Both the navigation bar and the <strong>header</strong> have a link to IMDb on it so that the its presence is always visible.</p>
+<p>In terms of connecting with potential clients, the website features a user-friendly <stong>contact form</strong>. The bottom of the website has a <strong>footer</strong> to hold all the social media links and sits beneath the other contact information at the base of the page. This section is linked to from various other points in the site, including a large <strong>'call to action' button</strong> on the landing page.</p>
+<p>The colour scheme is greens and neutrals. This service is reliable, provided by someone with a depth of knowledge in his field, from technical ability to intuitive creativity. The <strong>hero image</strong> is designed to appeal visually to the user and create a positive emotional resposnse, featuring a calming colour gradient from white to green and an image of digital sound waves. Some <strong>animations</strong> are also used on the landing page to 'welcome' the user to the website.</p>
 
 <h3>Home</h3>
-<p>The website landing page will be clear and simple with a hero image which represents the service/ industry. The brand name (Alex R Winter) and the service provided will be the most obvious elements of the page for clarity's sake, followed by a large contact button. The landing page will also have a nav header with a link to Alex Winter's IMDb page as this is the most important online presence in terms of this industry. There will be an arrow indicating that the user should scroll so that the existence of more content is clear and intuitive.</p>
+<p>The website landing page is clear and simple with a hero image which represents the service/ industry. <br>The brand name (Alex R Winter) and the service provided are the most obvious elements of the page for clarity's sake, followed by a large contact button. This information will appear on the screen slowly (0.5s) once the user has navigated to the page. The animation draws attention to the information being displayed and also adds to the user experience; giving a sense of user interractivity.<br>The landing page also has a header with a link to Alex Winter's IMDb page as this is the most important online presence in terms of this industry.<br>There is an animated arrow indicating that the user should scroll down, making the existence of more content clear and intuitive.</p>
 
 <h3>About</h3>
-<p>Including an 'about' section allows for client to view the potential collaborator in a more personal way; this is a self-employed person rather than a business. It also gives the opportunity to summarise Alex Winter's professional and academic background in the field. This will be very brief (including too much personal information on the main page will clutter the clear and professional message and layout which we want to present). On mobile and tablet some of this information will be expandable. The page will also include a 'Let's work tohether' link to the contact section. On tablets and larger screens, the section will also include a photograph.</p>
+<p>Including an 'about' section allows for client to view the potential collaborator in a more personal way; this is a self-employed person rather than a business. It also gives the opportunity to summarise Alex Winter's professional and academic background in the field. This is very brief (including too much personal information on the main page woukd clutter the clear and professional message and layout which we want to present).<br>On mobile and tablet some of this information will be expandable. <br>The page will also include a 'Let's work tohether' link to the contact section. On tablets and larger screens the section will include a photograph.</p>
 
 <h3>Services</h3>
-<p>Services can be broken down into three main items: Dialogue Edit, Sound Design and Re-Recording Mixer, which are briefly expalined in a context of 'what I can do for you'. They come under three headings and have icons to symbolise the processes. This information isn't collapsible because they are short paragraphs and easily scrolled past if they aren't of interest to the viewer. The section is responsive and the content changes from being organised horizonally on larger screens to vertically on smaller screens.</p>
+<p>Services can be broken down into three main items: Dialogue Edit, Sound Design and Re-Recording Mixer, which are briefly expalined in a context of 'what I can do for you'. The items come under three headings with icons to symbolise the processes. <br>This information isn't collapsible because they are short paragraphs and easily scrolled past if they aren't of interest to the viewer.<br>The section is responsive and the content changes from being organised horizonally on larger screens to vertically on smaller screens.</p>
 
 <h3>Projects</h3>
-<p>The projects features films which Alex Winter has worked on. The film is named, along with the year of release and the job title. There is an image cut from the poster of the film which acts as a link to the releavnt IMDb page and responds visually to hovering to make the fact that the image is 'clickable' clear. This shows Alex Winter's experience in the services which are described in the previous section.</p>
+<p>The projects section features films which Alex Winter has worked on. The film is named, along with the year of release and the job title. There is an image cut from the poster of the film, which acts as a link to the releavnt IMDb page and responds visually ('lights up') when hovered over or clicked to make the image's 'clickability' clear. This section displays Alex Winter's experience in the services which are described in the previous section.</p>
 
 <h3>Testimonials</h3>
 <p>The testimonials section builds on the previous two sections and features two glowing testimonials from past collaborators. This content is also responsive, shifting from horizontal on larger screens to vertical on smaller screens.</p>
@@ -57,15 +57,13 @@ contact
 <p>The contact section, which is linked to from various other points in the website, offers various different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 
+<h2>Current features</h2>
 
-<h2>Credits</h2>
-- Sound waves vector image by OpenClipart-Vectors from Pixabay<br>
-- Hero image by Sophie Murray (created for website)<br>
-- Images for project films without posters: Photo by Denise Jans on Unsplash <br>
-- Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions<br>
-- Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)<br>
-- Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group<br>
-- Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
+<h2>Features to be implemented</h2>
+<em>I would like to add far more interactivity to the website as I feel that this makes a big difference to the user experience, making the user feel involved and also symbolising the technology and creativity inherant in this industry</em>
+- Background animation for homepage: either one which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed; or a background video playing with gentle soundwave movement: animation needed not included in this project schedule.
+- Scroll: A smooth scroll effect between sections. Javascript needed.
+- Blog: Increases online content and online presence. For Client to add.
 
 <h2>Technologies Used</h2>
 - This project uses HTML and CSS programming languages.<br>
@@ -79,3 +77,13 @@ contact
 - <a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.<br>
 - <a href="https://validator.w3.org/">W3C Validation service</a> was used to check HTML.<br>
 - <a href="https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.<br>
+
+
+<h2>Credits</h2>
+- Sound waves vector image by OpenClipart-Vectors from Pixabay<br>
+- Hero image by Sophie Murray (created for website)<br>
+- Images for project films without posters: Photo by Denise Jans on Unsplash <br>
+- Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions<br>
+- Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)<br>
+- Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group<br>
+- Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
