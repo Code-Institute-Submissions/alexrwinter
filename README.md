@@ -59,13 +59,13 @@ contact
 
 
 <h2>Credits</h2>
-Sound waves vector image by OpenClipart-Vectors from Pixabay
-Hero image by Sophie Murray (created for website)
-Images for project films without posters: Photo by Denise Jans on Unsplash
-Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions
-Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)
-Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group
-Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a>
+- Sound waves vector image by OpenClipart-Vectors from Pixabay<br>
+- Hero image by Sophie Murray (created for website)<br>
+- Images for project films without posters: Photo by Denise Jans on Unsplash <br>
+- Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions<br>
+- Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)<br>
+- Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group<br>
+- Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
 
 <h2>Technologies Used</h2>
 - This project uses HTML and CSS programming languages.<br>
@@ -78,4 +78,4 @@ Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfiel
 - <a href="https://fontawesome.com/">Font Awesome</a> Font Awesome provided the icons in this project.<br>
 - <a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.<br>
 - <a href="https://validator.w3.org/">W3C Validation service</a> was used to check HTML.<br>
-- <a href"https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.<br>
+- <a href="https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.<br>
