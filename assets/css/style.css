@@ -218,19 +218,32 @@ i {
     right: 40%;
 }
 
+.chevron:hover {
+    color: #fff;
+    font-size: 55px;
+}
+
 @media (min-width:768px){
    .chevron{
        font-size:60px;
-       right:2.5%;
+       right:3%;
    } 
+   .chevron:hover {
+       font-size: 65px;
+   }
 }
 
-.chevron:visited {
-    color: #fff;
+@media(min-width: 992px){
+    .chevron{
+       font-size:65px;
+       right:2.5%;
+   } 
+   .chevron:hover {
+       font-size: 70px;
+   }
 }
-.chevron:hover {
-    color: #155763;
-}
+
+
 
 
 
@@ -270,7 +283,6 @@ i {
     margin-top: 15px;
     padding: 26px 10px;
 }
-
 
 .btn-submit:hover,
 .btn-submit:active,
