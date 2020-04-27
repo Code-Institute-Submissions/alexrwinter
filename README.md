@@ -55,11 +55,12 @@ https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 <p>The contact section, which is linked to from various other points in the website, offers different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 
+
 <h2>Features to be implemented</h2>
-<p>I would like to add far more interactivity to the website to enhance UX.<br>
-- Background animation for homepage: responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.<br>
+<p>
+- Background animation for homepage which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.<br>
 - Scroll: A smooth scroll effect between sections. Javascript needed.<br>
-- Blog: Increases online content and online presence. For client to add.<br>
+- Blog: Increases online content and online presence. For client to add.<br></p>
 
 
 <h2>Technologies Used</h2>
