@@ -24,7 +24,7 @@ The fundamental purpose of the website is to encourage potential collaborators a
 
 <h2>Wireframes</h2>
 
-Wireframes for mobile, iPad and Desktop can be seen at:
+Wireframes for mobile, iPad and Desktop can be seen here:
 
 https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 
@@ -54,13 +54,12 @@ https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 <p>The contact section, which is linked to from various other points in the website, offers various different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 
-<h2>Current features</h2>
-
 <h2>Features to be implemented</h2>
-<em>I would like to add far more interactivity to the website as I feel that this makes a big difference to the user experience, making the user feel involved and also symbolising the technology and creativity inherant in this industry</em>
-- Background animation for homepage: either one which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed; or a background video playing with gentle soundwave movement: animation needed not included in this project schedule.
-- Scroll: A smooth scroll effect between sections. Javascript needed.
-- Blog: Increases online content and online presence. For Client to add.
+<p>I would like to add far more interactivity to the website to enhance UX.<br>
+- Background animation for homepage: responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.<br>
+- Scroll: A smooth scroll effect between sections. Javascript needed.<br>
+- Blog: Increases online content and online presence. For client to add.<br>
+
 
 <h2>Technologies Used</h2>
 - This project uses HTML and CSS programming languages.<br>
@@ -74,6 +73,13 @@ https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 - <a href="https://www.photoshop.com/en">Adobe Photoshop</a> Photoshop was used to create the hero image and edit the images used in this project.<br>
 - <a href="https://validator.w3.org/">W3C Validation service</a> was used to check HTML.<br>
 - <a href="https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.<br>
+
+
+<h2>Deployment</h2>
+<p>The site is developed in GitPod IDE, from where changes are committed and pushed to the master branch in the Github repository.
+This site is hosted using GitHub Pages, which publishes the website directly from the master branch in the Github repository. The website is automatically updated on GitHub Pages when changes are made to the master branch.</p>
+<p>To set up GitHub Pages, create a GitHub account and create a new repository by clicking the 'Repositories' tab and then 'new'. Once your GitHub repository is set up (for this to work, the landing page must be named index.html) click 'Settings' and scroll down to the subheading 'GitHub Pages' from where you can publish the site.</p>
+<p>To clone this repository and run it locally:<br> 1. Click 'Clone or download' and copy the page ( https://github.com/sophie-apples/alexrwinter.git )<br>2. Create a new repository and run Gitpod, or navigate to the directory where you want this cloned directory to be made.<br>3. Open Git Bash and type: git clone https://github.com/sophie-apples/alexrwinter.git into the terminal. Press enter and the clone will be created. for more information, see https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository . </p>
 
 
 <h2>Credits</h2>
