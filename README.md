@@ -10,8 +10,8 @@ The fundamental purpose of the website is to encourage potential collaborators a
 
 <h2>Business Objectives</h2>
 - Promote the service provided (i.e.post production sound)<br>
-- Create professional connections by encouraging clients to make contact <br>
-- Excellent UX design to encourage this and keep clients on the page<br>
+- Get more employment and collaborative opportunities<br>
+- Create professional connections by encouraging clients to make contact<br>
 - Clearly display the credentials of Alex Winter in his field<br>
 - Give a clean, modern, professional image/brand<br>
 
@@ -22,6 +22,12 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Get a sense of who this person is (a personable yet professional image: someone they want to work with or know professionally)<br>
 - Easy to contact and easy to connect with online (esp. LinkedIn)<br>
 
+<h3>User stories</h3>
+-	‘I want to know about this person’s experience and what other projects they have worked on.’
+-	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’
+-	‘I want to be able to contact them easily.’
+-	‘I want to know how much they charge.’
+-	‘I want the website to be easy to navigate and the information to be relevant.’
 
 <h2>Wireframes</h2>
 
@@ -59,8 +65,7 @@ https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 <h2>Features to be implemented</h2>
 <p>
 - Background animation for homepage which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.<br>
-- Scroll: A smooth scroll effect between sections. Javascript needed.<br>
-- Blog: Increases online content and online presence. For client to add.<br></p>
+- Scroll: A smooth scroll effect between sections. Javascript needed.<br></p>
 
 
 <h2>Technologies Used</h2>
