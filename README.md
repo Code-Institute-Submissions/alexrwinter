@@ -73,7 +73,7 @@ https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/
 - <a href="www.gitpod.io">Gitpod</a> Gitpod was used as the IDE whilst building the webiste.<br>
 - <a href="www.github.com">GitHub</a> The project was developed in Gitpod and then committed and pushed to its GitHub respository, from where this website can be deployed.<br>
 - <a href="https://www.bootstrapcdn.com/">BootstrapCND v4.4.1</a> Bootstrap was used for the structure and responsiveness of the - website, for responsive components i.e the navigation bar, and for button functionality.<br>
-- <a href="https://jquery.com/">jQuery</a>, <a href="https://popper.js.org/">Popper.js</a> and Bottrap's Javascript plugins are used to make the navigation bar responsive.<br>
+- <a href="https://jquery.com/">jQuery</a>, <a href="https://popper.js.org/">Popper.js</a> and Bootstrap's Javascript plugins are used to make the navigation bar responsive.<br>
 - <a href="https://fonts.google.com/">Google Fonts</a> The website uses Google fonts for font styling.<br>
 - <a href="https://daneden.github.io/animate.css/">Animate.css</a> Animate.css via Github was used to animate the chevron and the title text. <br>
 - <a href="https://fontawesome.com/">Font Awesome</a> Font Awesome provided the icons in this project.<br>
