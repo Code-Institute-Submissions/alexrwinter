@@ -23,11 +23,11 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Easy to contact and easy to connect with online (esp. LinkedIn)<br>
 
 <h3>User stories</h3>
--	‘I want to know about this person’s experience and what other projects they have worked on.’
--	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’
--	‘I want to be able to contact them easily.’
--	‘I want to know how much they charge.’
--	‘I want the website to be easy to navigate and the information to be relevant.’
+-	‘I want to know about this person’s experience and what other projects they have worked on.’<br>
+-	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’<br>
+-	‘I want to be able to contact them easily.’<br>
+-	‘I want to know how much they charge.’<br>
+-	‘I want the website to be easy to navigate and the information to be relevant.’<br>
 
 <h2>Wireframes</h2>
 
@@ -96,5 +96,5 @@ This site is hosted using GitHub Pages, which publishes the website directly fro
 - Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions<br>
 - Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)<br>
 - Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group<br>
-- Alex Portrait Image by <a href"www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
+- Alex Portrait Image by <a href="www.tristanpatricksherfield.com">Tristan Sherfield</a><br>
 - copy written by Sophie Murray on behalf of Alex R Winter
