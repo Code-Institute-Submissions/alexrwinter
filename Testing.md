@@ -1,18 +1,20 @@
-Testing user stories:
+<h1>Testing</h1>
+
+<h2>Testing user stories</h2>
 -	‘I want to know about this person’s experience and what other projects they have worked on.’<br>
-The about, projects and testimonials section will establish this. About includes information on their professional and academic background. Links to IMDb, which are visible across the site, give a professional feel and establishes their presence in the industry.
--	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’
--	The copy is friendly, as are the call to action buttons to get in touch. The about section also gives a personal feel.
--	‘I want to be able to contact them easily.’
--	There are multiple links to the contact section of the website: the landing page ‘contact’ button, ‘Let’s work together’ in the about section, from the navigation bar which is visible across the site, except the landing page. In the contact section, there is a contact form, email address, telephone and postal address plus links to LinkedIn Facebook, Instagram, Twitter and IMDb.
--	‘I want to know how much they charge.’
--	Whilst this is a common request, it is unwise to publish pricing on the website as it will vary from project to project so vastly. Instead, the user is made welcome to get in touch with details of their project so that this conversation can be initiated, and more information can be gained about pricing. A variety of different contact methods are then offered, some of them more direct, some of them less so.
--	‘I want the website to be easy to navigate and the information to be relevant.’
--	The website is very easy to navigate, as it scrolls from top to bottom. There is a navigation bar which shows clearly which section the user is viewing in relation to all other sections of the website. The copy and therefore information is short and to the point. Only essential information is present, including a summary of the individual, a summary of the services they provide and an overview of work they have undertaken. If the user wants more information, all this information is explorable via IMDb and social media, both of which are clearly visible at all times via ‘contact’ and the IMDb link on the navigation bar and landing page.
-Testing
-Code testing
--	https://validator.w3.org/ Markup Validation Service was used to test the validity of the HTML code.
--	https://jigsaw.w3.org/css-validator/ CSS validation service was used to test the validity of the CSS code.
+The about, projects and testimonials section will establish this. About includes information on their professional and academic background. Links to IMDb, which are visible across the site, give a professional feel and establishes their presence in the industry.<br>
+-	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’<br>
+The copy is friendly, as are the call to action buttons to get in touch. The about section also gives a personal feel.<br>
+-	‘I want to be able to contact them easily.’<br>
+There are multiple links to the contact section of the website: the landing page ‘contact’ button, ‘Let’s work together’ in the about section, from the navigation bar which is visible across the site, except the landing page. In the contact section, there is a contact form, email address, telephone and postal address plus links to LinkedIn Facebook, Instagram, Twitter and IMDb.<br>
+-	‘I want to know how much they charge.’<br>
+Whilst this is a common request, it is unwise to publish pricing on the website as it will vary from project to project so vastly. Instead, the user is made welcome to get in touch with details of their project so that this conversation can be initiated, and more information can be gained about pricing. A variety of different contact methods are then offered, some of them more direct, some of them less so.<br>
+-	‘I want the website to be easy to navigate and the information to be relevant.’<br>
+The website is very easy to navigate, as it scrolls from top to bottom. There is a navigation bar which shows clearly which section the user is viewing in relation to all other sections of the website. The copy and therefore information is short and to the point. Only essential information is present, including a summary of the individual, a summary of the services they provide and an overview of work they have undertaken. If the user wants more information, all this information is explorable via IMDb and social media, both of which are clearly visible at all times via ‘contact’ and the IMDb link on the navigation bar and landing page.<br>
+
+<h2>Code testing</h2>
+-	https://validator.w3.org/ Markup Validation Service was used to test the validity of the HTML code. <br>
+-	https://jigsaw.w3.org/css-validator/ CSS validation service was used to test the validity of the CSS code.<br>
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -20,23 +22,16 @@ Code testing
             alt="Valid CSS!" />
     </a>
 </p>
-            
-Valid CSS!
-<p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
-    <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" />
-    </a>
-</p>
 
-Manual testing
-General font sizing, margins, padding and content visibility, plus responsive specific elements and features  (listed below) to be checked at all sizes. Checked in three ways:
-1.	Via Google Chrome’s ‘inspect’ feature on the following devices ….. and ‘responsive’.
-2.	By viewing and manually checking the website on my mobile, tablet and desktop devices.
-3.	By asking users to visit the site and report any problems.
-Landing Page
-i.	Chevron correctly aligned on all devices; when clicked, takes user to ‘about’ section
+<h2>Manual testing</h2>
+General font sizing, margins, padding and content visibility, plus responsive specific elements and features  (listed below) to be checked at all sizes. Checked in three ways: <br>
+1.	Via Google Chrome’s ‘inspect’ feature on the following devices ….. and ‘responsive’.<br>
+2.	By viewing and manually checking the website on my mobile, tablet and desktop devices.<br>
+3.	By asking users to visit the site and report any problems.<br>
+
+<h3>Landing Page</h3>
+<strong>i.	Chevron</strong> correctly aligned on all devices; when clicked, takes user to ‘about’ section<br>
+<strong>i.	Chevron</strong> correctly aligned on all devices; when clicked, takes user to ‘about’ section<br>
 ii.	Contact button takes user to ‘contact section’; correctly aligned, text responsive sizing
 iii.	IMDb button visible on all devices; when clicked takes user to personal IMDb page in a sperate tab
 iv.	Font visibility text not obscured by background image; easy to read on all devices
