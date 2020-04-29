@@ -31,7 +31,7 @@ The fundamental purpose of the website is to encourage potential collaborators a
 
 <h2>Wireframes</h2>
 
-Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> here</a>
+Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> here </a>.
 
 
 
