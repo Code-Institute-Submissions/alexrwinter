@@ -1,4 +1,4 @@
-
+![](assets/images/seagreenscrop.jpg)
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
 
 <p>A professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
