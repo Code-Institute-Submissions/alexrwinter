@@ -11,7 +11,7 @@
 </p>
 
 <h2>Browser Compatibility testing</h2>
-
+During browser compatibility testing, https://try.powermapper.com/ , I found that the 'figure' element was not supported by older browsers. This has been corrected.
 
 <h2>Manual testing</h2>
 <p>
@@ -20,12 +20,13 @@ General font sizing, margins, padding and content visibility, plus responsive sp
 2.	By viewing and manually checking the website on my mobile, tablet and desktop devices.<br>
 3.	By asking users to visit the site and report any problems.</p>
 
-<h4>Landing Page</h4>
+<h3>Landing Page</h3>
 <p><strong>i. Chevron</strong> correctly aligned on all devices; when clicked, takes user to ‘about’ section.<br>
 <strong>ii. Contact button</strong> takes user to ‘contact section’; correctly aligned, text responsive sizing.<br>
 <strong>iii. IMDb button</strong> visible on all devices; when clicked takes user to personal IMDb page in a seperate tab.<br>
 <strong>iv. Text visibility</strong> text not obscured by background image; easy to read on all devices.<br>
 <strong>v. Text animation</strong> works on all devices, (cross-browser????) appropriate timing to read information as it appears.<br><strong>vi. Font sizing</strong> responsive, no problems.</p>
+
 <h3>Navigation Bar</h3>
 <p><strong>i. Position</strong>  right hand side on medium and large devices; aligned with chevron; centred at top of screen on mobile devices.<br>
 <strong>ii. Collapsible</strong> for mobile collapsible nav works: no problems.<br>
@@ -33,7 +34,8 @@ General font sizing, margins, padding and content visibility, plus responsive sp
 <strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green.<br><strong>v. Navigation links</strong>  functional all links functional, IMDb link opens a new tab to personal IMDb page.<br>
 <strong>vi.	Margins</strong> spacing around text appropriate.<br>
 <strong>vii. Font sizing</strong> font size clear and responsive across devices.</p>
-<h4>About page</h4>
+
+<h3>About</h3>
 <p><strong>i. Alex photo (with button functionality/ animation)</strong> moves from right hand size to bottom of section and is hidden on mobile devices; image darkens when hovered; when clicked, takes user to personal IMDb page.<br>
 <strong>ii. ‘Read more’ button</strong> appears on medium and small devices when second paragraph is hidden; when clicked, it expands the second paragraph; changes colour when hovered or clicked.<br>
 <strong>iii. ‘Let’s work together’ button</strong> is visible on large devices and obscured along with paragraph on medium and small devices; appears when ‘read more’ is clicked; when clicked, takes the user to the contact section of the website; colour change when hovered or clicked.<br>
@@ -41,22 +43,26 @@ General font sizing, margins, padding and content visibility, plus responsive sp
 <strong>v. Font sizing </strong> responsive: no problems.<br>
 <strong>vi.	Margins</strong> responsive: no problems.<br>
 <strong>vii. Responsive layout</strong> responsive: no problems.</p>
-<h3>Services page</h3>
+
+<h3>Services</h3>
 <p><strong>i. Layout</strong> responsive:no problems.<br>
 <strong>ii. Font sizing</strong> responsive: no problems.<br>
 <strong>iii. Margins</strong> responsive: no problems.<br>
 <strong>iv. Responsive layout</strong> responsive: no problems.</p>
+
 <h3>Projects</h3>
 <p><strong>i.	Images</strong> responsive: no problems.<br>
 <strong>ii.	Images button functionality</strong> each takes user to the relevant film page on IMDb in a seperate tab.<br>
 <strong>iii. Images animation on hover</strong> responsive: no problems.<br>
 <strong>iv.	Margins</strong> responsive: no problems.<br>
 <strong>v. Font sizing</strong> responsive: no problems.</p>
+
 <h3>Testimonials</h3>
 <p><strong>i. Logos for production companies</strong> appropriate sizing, visibility margins, etc.<br>
 <strong>ii.	Responsive layout</strong> responsive: no problems.<br>
 <strong>iii. Font sizing</strong> responsive: no problems.<br>
 <strong>iv.	Margins</strong> responsive: no problems.</p>
+
 <h3>Contact</h3>
 <p><strong>i. Title font sizing, margins, centred text</strong> responsive: no problems.<br>
 <strong>ii.	Contact form: i.</strong> responsive sizing responsive: no problems. <strong>ii.</strong> margins responsive: no problems. <strong>iii.</strong> functionality (required fields) working, no problems.<br>
