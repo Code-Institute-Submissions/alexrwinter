@@ -11,12 +11,12 @@
 </p>
 
 <h2>Browser Compatibility testing</h2>
-During browser compatibility testing, https://try.powermapper.com/ , I found that the 'figure' element was not supported by older browsers. This has been corrected.
+During browser <a href="https://try.powermapper.com/">compatibility testing</a>, I found that the 'figure' element was not supported by older browsers, so it has been changed to a div element.
 
 <h2>Manual testing</h2>
 <p>
 General font sizing, margins, padding and content visibility, plus responsive specific elements and features (listed below) to be checked at all sizes & breakpoints. Checked in three ways: <br>
-1.	Via Google Chrome’s ‘inspect’ feature on the following devices ….. and ‘responsive’.<br>
+1.	Via Google Chrome’s ‘inspect’ feature (motoG4, Galaxy S5, Pixel2 Pixel2sl, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro ) and the ‘responsive’setting which allows horizontal and vertical resizing of the viewport.<br>
 2.	By viewing and manually checking the website on my mobile, tablet and desktop devices.<br>
 3.	By asking users to visit the site and report any problems.</p>
 
