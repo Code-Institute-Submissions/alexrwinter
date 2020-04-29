@@ -55,7 +55,8 @@ General font sizing, margins, padding and content visibility, plus responsive sp
 <strong>ii.	Images button functionality</strong> each takes user to the relevant film page on IMDb in a seperate tab.<br>
 <strong>iii. Images animation on hover</strong> responsive: no problems.<br>
 <strong>iv.	Margins</strong> responsive: no problems.<br>
-<strong>v. Font sizing</strong> responsive: no problems.</p>
+<strong>v. Font sizing</strong> responsive: no problems.<br>
+<strong>vi. Expand '...' button</strong> worked at all sizes except large. need to fix.</p>
 
 <h3>Testimonials</h3>
 <p><strong>i. Logos for production companies</strong> appropriate sizing, visibility margins, etc.<br>
