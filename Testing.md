@@ -31,7 +31,8 @@ General font sizing, margins, padding and content visibility, plus responsive sp
 <p><strong>i. Position</strong>  right hand side on medium and large devices; aligned with chevron; centred at top of screen on mobile devices.<br>
 <strong>ii. Collapsible</strong> for mobile collapsible nav works: no problems.<br>
 <strong>iii. Doesn’t obscure content</strong>  spacing appropriate to not interact with website content.<br>
-<strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green.<br><strong>v. Navigation links</strong>  functional all links functional, IMDb link opens a new tab to personal IMDb page.<br>
+<strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green.
+<br><strong>v. Navigation links</strong>  functional all links functional, IMDb link opens a new tab to personal IMDb page. problem found: when nav link clicked, doesn't highlight.<br>
 <strong>vi.	Margins</strong> spacing around text appropriate.<br>
 <strong>vii. Font sizing</strong> font size clear and responsive across devices.</p>
 
