@@ -26,7 +26,6 @@ The fundamental purpose of the website is to encourage potential collaborators a
 -	‘I want to know about this person’s experience and what other projects they have worked on.’<br>
 -	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’<br>
 -	‘I want to be able to contact them easily.’<br>
--	‘I want to know how much they charge.’<br>
 -	‘I want the website to be easy to navigate and the information to be relevant.’<br>
 
 <h2>Wireframes</h2>
