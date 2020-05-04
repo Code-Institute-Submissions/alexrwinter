@@ -34,7 +34,7 @@ The fundamental purpose of the website is to encourage potential collaborators a
   
 
 <h2>Scope/ Structure</h2>
-<p><u>Sections & features to be included:</u><br>
+<p><strong>Sections & features to be included:</strong><br>
 - Landing section: title to give clear message, contact callout button to address central purpose of site, hero image which represents the industry.<br>
 - About section: articulate the academic background and professionalism of the individual.<br>
 - Services section: brief, clear summary of what this person does/ can do for you on a practical, applied level.<br>
@@ -43,12 +43,12 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Contact section: all methods of contact displayed: social media, IMDb, address, telephone number and email, plus a contact form for ease of communication and to encourage the user to make contact.<br>
 -Navigation bar: tie the website together by highlighting the section currently being viewed.</p>
 
-<p><u>Client perspective:</u> The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
+<p><strong>Client perspective:</strong> The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
 
-<p><u>Business perspective:</u> Homepage makes services clear and calls out for user to make contact. Gives professional, clean image. Simple clear information and a variety of ways to make contact addressess this core purpose. Services and examples of work gives an idea of the kinds of roles which are preferable/ suitable.</p>
+<p><strong>Business perspective:</strong> Homepage makes services clear and calls out for user to make contact. Gives professional, clean image. Simple clear information and a variety of ways to make contact addressess this core purpose. Services and examples of work gives an idea of the kinds of roles which are preferable/ suitable.</p>
 
 
-<h2>Skeleton/ Strcuture</h2>
+<h2>Skeleton/ Structure</h2>
 
 <h3>Wireframes</h3>
 Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> HERE </a>.
@@ -77,8 +77,9 @@ Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.co
 <h4>Contact</h4>
 <p>The contact section, which is linked to from various other points in the website, offers different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
-
-
+<hr>
+<p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">VIEW LIVE DEMO</a><p/>
+<hr>
 <h2>Features to be implemented</h2>
 <p>
 - Background animation for homepage which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.<br>
