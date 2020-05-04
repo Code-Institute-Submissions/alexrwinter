@@ -1,7 +1,7 @@
 ![](assets/images/seagreenscrop.jpg)
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
 <hr>
-<p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">View live demo</a><p/>
+<p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">VIEW LIVE DEMO</a><p/>
 <hr>
 
 <p align="center"><em>Summary<br>This is a professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
