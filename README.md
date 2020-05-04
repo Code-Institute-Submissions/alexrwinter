@@ -23,36 +23,37 @@ The fundamental purpose of the website is to encourage potential collaborators a
 - Get a sense of who this person is (a personable yet professional image: someone they want to work with or know professionally)<br>
 - Easy to contact and easy to connect with online (esp. LinkedIn)<br>
 
-<h3>B2B Strategy</h3>
-<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field.
-
-<h3>User stories</h3>
+<h4>User stories</h4>
 -	‘I want to know about this person’s experience and what other projects they have worked on.’<br>
 -	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’<br>
 -	‘I want to be able to contact them easily.’<br>
 -	‘I want the website to be easy to navigate and the information to be relevant.’<br>
 
+<h3>B2B Strategy</h3>
+<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field.
+  
+
 <h2>Scope/ Structure</h2>
-<p><u>Sections to be included & rationale:</u><br>
+<p><u>Sections & features to be included:</u><br>
 - Landing section: title to give clear message, contact callout button to address central purpose of site, hero image which represents the industry.<br>
 - About section: articulate the academic background and professionalism of the individual.<br>
 - Services section: brief, clear summary of what this person does/ can do for you on a practical, applied level.<br>
 - Projects section: job titles and films worked on accompanied by images and with links to relevant IMDb pages; a project history.<br>
 - Testimonials section: testimonials from other clients/collaborators.<br>
-- Contact section: all methods of contact displayed: social media, IMDb, address, telephone number and email, plus a contact form for ease of communication and to encourage the user to make contact.
+- Contact section: all methods of contact displayed: social media, IMDb, address, telephone number and email, plus a contact form for ease of communication and to encourage the user to make contact.<br>
 -Navigation bar: tie the website together by highlighting the section currently being viewed.</p>
-<br>
 
 <p><u>Client perspective:</u> The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
 
 <p><u>Business perspective:</u> Homepage makes services clear and calls out for user to make contact. Gives professional, clean image. Simple clear information and a variety of ways to make contact addressess this core purpose. Services and examples of work gives an idea of the kinds of roles which are preferable/ suitable.</p>
+
 
 <h2>Skeleton/ Strcuture</h2>
 
 <h3>Wireframes</h3>
 Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> HERE </a>.
 
-<h3>Features</h3>
+<h3>Features (& Rationale)</h3>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
 <p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical, sticks to the top right of the page and is always visible. On mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. On both smaller and larger screens the navigation bar has a scrollspy which allows the user to see which psection they are viewing. Both the navigation bar and the <strong>header</strong> have a link to IMDb on it so that the its presence is always visible.</p>
 <p>In terms of connecting with potential clients, the website features a user-friendly <stong>contact form</strong> with required fields and a required valid email address. The bottom of the website has a <strong>footer</strong> to hold all the social media links and sits beneath the other contact information at the base of the page. This section is linked to from various other points in the site, including a large <strong>'call to action' button</strong> on the landing page.</p>
