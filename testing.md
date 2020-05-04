@@ -11,16 +11,22 @@
 </p>
 
 <h2>Browser Compatibility testing</h2>
-The web page was opened in Mozilla, Chrome, Safari and Edge, and all worked.
+The web page was opened in Mozilla Firefox, Google Chrome, Safari and Microsoft Edge, and all worked.
 
 <h2>Manual testing</h2>
 <p>
-<strong>General font sizing, margins, padding and content visibility, plus responsive specific elements and features (listed below) to be checked at all sizes & breakpoints. Checked in three ways: <br>
+<strong>General font sizing, margins, padding and content visibility, plus responsive specific elements and features (listed below) to be checked at all sizes & breakpoints. Checked in four ways: <br>
+    
 1.	Via Google Chrome’s ‘inspect’ feature (motoG4, Galaxy S5, Pixel2 Pixel2sl, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro ) and the ‘responsive’ setting which allows horizontal and vertical resizing of the viewport.<br>
+
 2.	By viewing and manually checking the website on my mobile, tablet and desktop devices.<br>
-3.	By asking users to visit the site and report any problems.<br></p></strong>
+
+3.	By opening the page in Firefox, Chrome, Edge & Safari (most used web browsers) on different devices.<br>
+
+4.  By asking users to visit the site and report any problems.<br>
+</p></strong>
     <hr>
-    Details below itemise elements and features to be tested with expected outcome, followed by a pass or fail statement. Where an issue has been found, solution is stated after the 'Fail' with a correction of 'Pass' if appropriate.
+    Details below itemise elements and features to be tested with expected outcome, followed by a PASS or FAIL statement. Where an issue has been found, solution is stated after the 'FAIL' with a correction of 'PASS' if appropriate.
     <hr>
 
 <h3>Landing Page</h3>
@@ -36,7 +42,7 @@ The web page was opened in Mozilla, Chrome, Safari and Edge, and all worked.
 <strong>ii. Collapsible</strong> collapsible nav functions for mobile devices: PASS<br>
 <strong>iii. Doesn’t obscure content</strong>  spacing appropriate to not interact with website content: PASS<br>
 <strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green as user scrolls to each section: PASS
-<br><strong>v. Navigation links</strong>  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: FAIL: when nav link clicked, doesn't highlight.<br>
+<br><strong>v. Navigation links</strong>  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: <strong>FAIL: when nav link clicked, doesn't highlight on Edge and Chrome.</strong><br>
 <strong>vi.	Margins</strong> spacing around text appropriate: PASS<br>
 <strong>vii. Font sizing</strong> font size clear and responsive across devices: PASS</p>
 
@@ -46,7 +52,7 @@ The web page was opened in Mozilla, Chrome, Safari and Edge, and all worked.
 <strong>iii. ‘Let’s work together’ button</strong> is visible on large devices and obscured along with paragraph on medium and small devices; appears when ‘read more’ is clicked; when clicked, takes the user to the contact section of the website; colour change when hovered or clicked: PASS<br>
 <strong>iv.	Paragraph sizes</strong> responsive: PASS<br>
 <strong>v. Font sizing </strong> responsive: PASS<br>
-<strong>vi.	Margins</strong> responsive: PASS<br>
+    <strong>vi.	Margins</strong> responsive: <strong>FAIL: large top margin on Safari browser</strong><br>
 <strong>vii. Responsive layout</strong> responsive: PASS</p>
 
 <h3>Services</h3>
