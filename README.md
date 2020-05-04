@@ -1,12 +1,15 @@
 ![](assets/images/seagreenscrop.jpg)
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
+<hr>
+
 
 <p>A professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
 The website includes a brief professional 'about' summary, a summary of services provided, project history, testimonials from previous collaborators/ clients and contact details.
 The fundamental purpose of the website is to encourage potential collaborators and clients to make contact.</p>
 
-<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field. The 'about' section will give information on professional background and experience in post production sound, and projects worked on will further establish this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) will give a sense of reliability, which will also be backed up by on-site testimonials.</p>
-<p>The website will include services provided, contact information, imdb profile, professional background, testimonials from previous employers/clients, previous films worked on and links to social media.</p>
+<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field. The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
+<p>The website includes services provided, contact information, imdb profile, professional background, testimonials from previous employers/clients, previous films worked on and links to social media.</p>
+<a href="https://sophie-apples.github.io/alexrwinter/">View live demo</a>
 
 <h2>Business Objectives</h2>
 - Promote the service provided (i.e.post production sound)<br>
@@ -26,15 +29,11 @@ The fundamental purpose of the website is to encourage potential collaborators a
 -	‘I want to know about this person’s experience and what other projects they have worked on.’<br>
 -	‘I want to get an impression of whether they are friendly and professional and see if they are someone I want to work with.’<br>
 -	‘I want to be able to contact them easily.’<br>
--	‘I want to know how much they charge.’<br>
 -	‘I want the website to be easy to navigate and the information to be relevant.’<br>
 
 <h2>Wireframes</h2>
 
 Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> here </a>.
-
-
-
 
 <h2>Features</h2>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
@@ -88,6 +87,8 @@ This site is hosted using GitHub Pages, which publishes the website directly fro
 <p>To set up GitHub Pages, create a GitHub account and create a new repository by clicking the 'Repositories' tab and then 'new'. Once your GitHub repository is set up (for this to work, the landing page must be named index.html) click 'Settings' and scroll down to the subheading 'GitHub Pages' from where you can publish the site. This site can be viewed at https://sophie-apples.github.io/alexrwinter/.</p>
 <p>To clone this repository and run it locally:<br> 1. Click 'Clone or download' and copy the page ( https://github.com/sophie-apples/alexrwinter.git )<br>2. Create a new repository and run Gitpod, or navigate to the directory where you want this cloned directory to be made.<br>3. Open Git Bash and type <strong> git clone https://github.com/sophie-apples/alexrwinter.git </strong> into the terminal. Press enter and the clone will be created.<br>For more information, see https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository. </p>
 
+<h2>Testing</h2>
+<p>View testing document <a href="testing.md">here</a>.
 
 <h2>Credits</h2>
 - Sound waves vector image by OpenClipart-Vectors from Pixabay<br>

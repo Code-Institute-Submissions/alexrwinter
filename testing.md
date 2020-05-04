@@ -82,8 +82,5 @@ The copy is friendly, as are the call to action buttons to get in touch. The abo
 - <strong>‘I want to be able to contact them easily.’</strong><br>
 There are multiple links to the contact section of the website: the landing page ‘contact’ button, ‘Let’s work together’ in the about section, from the navigation bar which is visible across the site, except the landing page. In the contact section, there is a contact form, email address, telephone and postal address plus links to LinkedIn Facebook, Instagram, Twitter and IMDb.<br>
 
-- <strong>‘I want to know how much they charge.’</strong><br>
-Whilst this is a common request, it is unwise to publish pricing on the website as it will vary from project to project so vastly. Instead, the user is made welcome to get in touch with details of their project so that this conversation can be initiated, and more information can be gained about pricing. A variety of different contact methods are then offered, some of them more direct, some of them less so.<br>
-
 - <strong>‘I want the website to be easy to navigate and the information to be relevant.’</strong><br>
 The website is very easy to navigate, as it scrolls from top to bottom. There is a navigation bar which shows clearly which section the user is viewing in relation to all other sections of the website. The copy and therefore information is short and to the point. Only essential information is present, including a summary of the individual, a summary of the services they provide and an overview of work they have undertaken. If the user wants more information, all this information is explorable via IMDb and social media, both of which are clearly visible at all times via ‘contact’ and the IMDb link on the navigation bar and landing page.<br>
