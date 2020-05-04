@@ -205,9 +205,14 @@ i {
     font-size: 25px;
 }
 
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+
+.navbar-dark .navbar-nav .nav-link.active/*, .navbar-dark .navbar-nav .nav-link.show*/ {
     background-color:#548788;
 }
+.nav-item:active {
+    background-color: #548788;
+}
+
 
 /*---------------------------------------------------Chevron--*/
 .chevron {
@@ -490,6 +495,8 @@ i {
         padding-top: 35px;
     }
 }
+
+
 /*---------------------------------------------------Testimonials--*/
 
 .test-heading {
