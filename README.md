@@ -50,7 +50,7 @@ The fundamental purpose of the website is to encourage potential collaborators a
 <h2>Skeleton/ Strcuture</h2>
 
 <h3>Wireframes</h3>
-Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> here </a>.
+Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> HERE </a>.
 
 <h3>Features</h3>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
