@@ -7,7 +7,7 @@
 <p align="center"><em>Summary<br>This is a professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
 The fundamental purpose of the website is to encourage potential collaborators and clients to make contact and to establish an online presence.</em></p>
 
-<h2>Strategy Plane</h2>
+<h2>Strategy</h2>
 
 <h3>Business Objectives</h3>
 - Promote the service provided (i.e.post production sound)<br>
