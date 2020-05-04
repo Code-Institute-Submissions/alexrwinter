@@ -35,9 +35,6 @@ The fundamental purpose of the website is to encourage potential collaborators a
 
 Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.com/view/bfa0d734-a9b5-4bc9-40e0-f88ad7fa45d7-c991/" target="_blank"> here </a>.
 
-
-
-
 <h2>Features</h2>
 <p>The information is divided into sections on a scroll format for a modern appearance which is mobile-friendly and to create a sense of simplicity, continuity and clarity.</p>
 <p>The website's <strong>main navigation bar</strong> is responsive, and highlights which section of the website is being viewed as the user scrolls: This gives a sense of flow and logical progression to the page's contents and allows the user to be aware at all times of where they are on the page in relation to the other information. For full screen and tablets the navbar is vertical, sticks to the top right of the page and is always visible. On mobile devices it collapses into a burger icon which can be expanded to a centred navigation bar located at the top of the page so as not to take up too much screen space. On both smaller and larger screens the navigation bar has a scrollspy which allows the user to see which psection they are viewing. Both the navigation bar and the <strong>header</strong> have a link to IMDb on it so that the its presence is always visible.</p>
@@ -90,6 +87,8 @@ This site is hosted using GitHub Pages, which publishes the website directly fro
 <p>To set up GitHub Pages, create a GitHub account and create a new repository by clicking the 'Repositories' tab and then 'new'. Once your GitHub repository is set up (for this to work, the landing page must be named index.html) click 'Settings' and scroll down to the subheading 'GitHub Pages' from where you can publish the site. This site can be viewed at https://sophie-apples.github.io/alexrwinter/.</p>
 <p>To clone this repository and run it locally:<br> 1. Click 'Clone or download' and copy the page ( https://github.com/sophie-apples/alexrwinter.git )<br>2. Create a new repository and run Gitpod, or navigate to the directory where you want this cloned directory to be made.<br>3. Open Git Bash and type <strong> git clone https://github.com/sophie-apples/alexrwinter.git </strong> into the terminal. Press enter and the clone will be created.<br>For more information, see https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository. </p>
 
+<h2>Testing</h2>
+<p>View testing document <a href="testing.md">here</a>.
 
 <h2>Credits</h2>
 - Sound waves vector image by OpenClipart-Vectors from Pixabay<br>
