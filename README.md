@@ -1,12 +1,15 @@
 ![](assets/images/seagreenscrop.jpg)
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
+<hr>
+
 
 <p>A professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
 The website includes a brief professional 'about' summary, a summary of services provided, project history, testimonials from previous collaborators/ clients and contact details.
 The fundamental purpose of the website is to encourage potential collaborators and clients to make contact.</p>
 
-<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field. The 'about' section will give information on professional background and experience in post production sound, and projects worked on will further establish this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) will give a sense of reliability, which will also be backed up by on-site testimonials.</p>
-<p>The website will include services provided, contact information, imdb profile, professional background, testimonials from previous employers/clients, previous films worked on and links to social media.</p>
+<p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field. The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
+<p>The website includes services provided, contact information, imdb profile, professional background, testimonials from previous employers/clients, previous films worked on and links to social media.</p>
+<a href="https://sophie-apples.github.io/alexrwinter/">View live demo</a>
 
 <h2>Business Objectives</h2>
 - Promote the service provided (i.e.post production sound)<br>
