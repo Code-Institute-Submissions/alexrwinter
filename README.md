@@ -1,11 +1,11 @@
 ![](assets/images/seagreenscrop.jpg)
 <h1 align="center">Alex R Winter: Post Production Sound</h1>
 <hr>
-<a href="https://sophie-apples.github.io/alexrwinter/">View live demo</a>
+<p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">View live demo</a><p/>
 <hr>
 
-<p><em>Summary :This is a professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
-The fundamental purpose of the website is to encourage potential collaborators and clients to make contact.</em></p>
+<p align="center"><em>Summary<br>This is a professional website for a self-employed Sound Designer/Editor working mainly for film and TV.
+The fundamental purpose of the website is to encourage potential collaborators and clients to make contact and to establish an online presence.</em></p>
 
 <h2>Strategy Plane</h2>
 
@@ -33,16 +33,19 @@ The fundamental purpose of the website is to encourage potential collaborators a
 -	‘I want the website to be easy to navigate and the information to be relevant.’<br>
 
 <h2>Scope/ Structure</h2>
-Sections to be included & rationale:<br>
+<p><u>Sections to be included & rationale:</u><br>
 - Landing section: title to give clear message, contact callout button to address central purpose of site, hero image which represents the industry.<br>
 - About section: articulate the academic background and professionalism of the individual.<br>
 - Services section: brief, clear summary of what this person does/ can do for you on a practical, applied level.<br>
 - Projects section: job titles and films worked on accompanied by images and with links to relevant IMDb pages; a project history.<br>
 - Testimonials section: testimonials from other clients/collaborators.<br>
 - Contact section: all methods of contact displayed: social media, IMDb, address, telephone number and email, plus a contact form for ease of communication and to encourage the user to make contact.
--Navigation bar: tie the website together by highlighting the section currently being viewed.
+-Navigation bar: tie the website together by highlighting the section currently being viewed.</p>
+<br>
 
-<p>Client perspective: The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
+<p><u>Client perspective:</u> The 'about' section gives information on professional background and experience in post production sound, and projects worked on further establishes this. The presence of an IMDb profile alongside many contact methods and a wide-reaching online presence (social media etc) gives a sense of reliability, which is also backed up by on-site testimonials.</p>
+
+<p><u>Business perspective:</u> Homepage makes services clear and calls out for user to make contact. Gives professional, clean image. Simple clear information and a variety of ways to make contact addressess this core purpose. Services and examples of work gives an idea of the kinds of roles which are preferable/ suitable.</p>
 
 <h2>Skeleton/ Strcuture</h2>
 
