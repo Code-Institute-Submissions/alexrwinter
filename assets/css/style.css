@@ -257,8 +257,6 @@ i {
     transition-duration: 0.3s;
 }
 
-@media ()
-
 .btn-submit {
     margin-top: 15px;
     padding: 26px 10px;
@@ -268,22 +266,26 @@ i {
 .btn-submit:active,
 .btn-submit:focus,
 .btn-submit:visited {
-    color: #fff;
+    color: #548788;
+    border-color: #548788;
+    background-color: #fff;
 }
 
 .btn-read-more {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     color: #fff;
-    background-color: #548788;
+    background-color: #155763;
     font-weight:bold;
+    margin-top: 15px;
 }
 
 .btn-read-more:hover,
 .btn-read-more:active {
     text-decoration: none;
     color: #fff;
-    background-color: #155763;
+    background-color: #548788;
+    border-color: #155763;
     
 }
 /*---------------------------------------------------Home--*/
