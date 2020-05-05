@@ -533,7 +533,12 @@ i {
 }
 @media (min-width:768px) {
     .test-container {
-        padding: 90px 150px 75px 40px;
+        padding: 100px 160px 80px 50px;
+    }
+}
+@media (min-width: 992px) {
+    .test-container {
+        padding: 150px 150px 150px 100px;
     }
 }
 
@@ -550,7 +555,11 @@ i {
         font-size: 20px;
     }
 }
-
+@media (min-width:992px) {
+    .testimonial {
+        padding: 0px 30px;
+    }
+}
 .test-name {
     font-size: 20px;
     font-weight: 400;
