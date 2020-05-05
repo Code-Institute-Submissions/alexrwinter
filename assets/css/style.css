@@ -262,7 +262,6 @@ i {
     padding: 26px 10px;
 }
 
-.btn-submit:hover,
 .btn-submit:active,
 .btn-submit:focus,
 .btn-submit:visited {
@@ -575,6 +574,7 @@ i {
     .contact-details {
         font-size: 19px;
         font-weight: 400;
+        color: #548788;
     }
 }
 
