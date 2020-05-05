@@ -86,7 +86,7 @@ iv.	**Margins** responsive and appropriate to screen size: __PASS__
 
 v. **Font sizing** responsive, clear to read:  __PASS__ 
 
-vi. **Expand '...' button** works to open and collapse extra content, changes color from light to dark when lciked or hovered: __FAIL__ 
+vi. **Expand '...' button** works to open and collapse extra content, changes color from light to dark when lciked or hovered: __PASS__ 
 
 
 ### Testimonials
