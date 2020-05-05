@@ -27,54 +27,88 @@ _**Details below itemise elements and features to be tested with expected outcom
 
 ### Landing Page
 i.**Chevron** correctly aligned on all devices; when clicked, takes user to ‘about’ section: __PASS__ 
+
 ii.**Contact button** takes user to ‘contact section’; correctly aligned, text responsive sizing: __PASS__ 
-iii. IMDb button</strong> visible on all devices; when clicked takes user to personal IMDb page in a seperate tab: __PASS__ 
-<strong>iv. Text visibility</strong> text not obscured by background image; easy to read on all devices: __PASS__ 
-<strong>v. Text animation</strong> works on all devices, cross-browser, and appropriate timing to read information as it appears: __PASS__ 
-<strong>vi. Font sizing</strong> responsive: __PASS__ 
+
+iii.**IMDb button** visible on all devices; when clicked takes user to personal IMDb page in a seperate tab: __PASS__ 
+
+iv.**Text visibility** text not obscured by background image; easy to read on all devices: __PASS__ 
+
+v.**Text animation** works on all devices, cross-browser, and appropriate timing to read information as it appears: __PASS__ 
+
+vi.**Font sizing** responsive: __PASS__ 
 
 ### Navigation Bar
-i. **Position**  right hand side on medium and large devices; centred at top of screen on mobile devices; aligned with landing page chevron in both cases: __PASS__ 
-ii. **Collapsible** collapsible nav functions for mobile devices: __PASS__ 
-iii. **Doesn’t obscure content**  spacing appropriate to not interact with website content: __PASS__ 
-iv. **‘Scrollspy’** highlights current section across devices, background changes colour from dark to light green as user scrolls to each section: __PASS__ 
-v. **Navigation links**  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: __PASS__  vi. **Margins** spacing around text appropriate: __PASS__ 
-vii. **Font sizing** responsive, clear to read: __PASS__ 
+i.**Position**  right hand side on medium and large devices; centred at top of screen on mobile devices; aligned with landing page chevron in both cases: __PASS__ 
+
+ii.**Collapsible** collapsible nav functions for mobile devices: __PASS__ 
+
+iii.**Doesn’t obscure content**  spacing appropriate to not interact with website content: __PASS__ 
+
+iv.**‘Scrollspy’** highlights current section across devices, background changes colour from dark to light green as user scrolls to each section: __PASS__ 
+
+v.**Navigation links**  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: __PASS__
+
+vi.**Margins** spacing around text appropriate: __PASS__ 
+
+vii.**Font sizing** responsive, clear to read: __PASS__ 
 
 ### About
-i. **Alex photo**  button functionality & animation; moves from right hand size to bottom of section; ;hidden on mobile devices; image darkens when hovered; when clicked, takes user to personal IMDb page: __PASS__ 
-ii. **‘Read more’ button** appears on medium and small devices where second paragraph is hidden; when clicked, it expands the second paragraph; changes colour from dark to light green when hovered or clicked: __PASS__ 
+i.**Alex photo**  button functionality & animation; moves from right hand size to bottom of section; ;hidden on mobile devices; image darkens when hovered; when clicked, takes user to personal IMDb page: __PASS__ 
+
+ii.**‘Read more’ button** appears on medium and small devices where second paragraph is hidden; when clicked, it expands the second paragraph; changes colour from dark to light green when hovered or clicked: __PASS__ 
+
 iii. **‘Let’s work together’ button** visible on large devices and obscured along with paragraph on medium and small devices; appears when ‘read more’ is clicked; when clicked, takes the user to the contact section of the website; colour change when hovered or clicked from dark to light green: __PASS__ 
+
 iv.	**Paragraph sizes** responsive; inline 'get in in touch' link is bold and takes user to contact page':__PASS__ 
+
 v. **Font sizing** responsive, clear to read:__PASS__ 
+
 vi.	**Margins** responsive and appropriate to screen size: __PASS__ 
+
 
 ### Services
 i. **Layout** responsive from horizontal on large screens to vertical on small screens: __PASS__ 
+
 ii. **Font sizing** responsive, clear to read: __PASS__ 
+
 iii. **Margins** responsive and appropriate to screen size: __PASS__ 
+
 
 ### Projects
 i.	**Images** responsive sizing, changes from stacked layout on mobiles to two column layout on medium and large screens:__PASS__ 
+
 ii.	**Images as buttons** each takes user to the relevant film page on IMDb in a seperate tab: __PASS__ 
+
 iii. **Images animation** images 'light up' when hovered or clicked: __PASS__ 
+
 iv.	**Margins** responsive and appropriate to screen size: __PASS__ 
+
 v. **Font sizing** responsive, clear to read:  __PASS__ 
+
 vi. **Expand '...' button** works to open and collapse extra content, changes color from light to dark when lciked or hovered: __FAIL__ 
+
 
 ### Testimonials
 i. **Logos for production companies** appropriate sizing, visibility, margins, etc: __PASS__ 
+
 ii.	**Responsive layout** changes from horizontal layout on medium and large screens to vertical layout on mobile devices: __PASS__ 
+
 iii. **Font sizing** responsive, clear to read: __PASS__ 
+
 iv.	**Margins** responsive and appropriate to screen size: __PASS__ 
+
 
 ### Contact
 i. **Title** font sizing appropriate, margins appropriate, text is centered and aligned correctly: __PASS__ 
+
 ii.	**Contact form**
-a.**responsive sizing** __PASS__ 
-b.**margins responsive** __PASS__ 
-c.**functionality- required fields working** __PASS__ 
+a. responsive sizing __PASS__ 
+b. margins responsive  __PASS__ 
+c. functionality- required fields working __PASS__ 
+
 iii. **Social media links** open in new tabs to correct pages: __PASS__ 
+
 iv. **Visibility of contact information**all visible: __PASS__ 
 
 
