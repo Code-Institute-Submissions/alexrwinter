@@ -121,11 +121,21 @@ i {
 /*---------------------------------------------------Body--*/
 .row {
     margin-right: 0px;
+    margin-left: 0px;
 }
 /*---------------------------------------------------Navbar Top (Imdb)--*/
 
 .navbar {
     background-color: rgba(0,0,0,0)
+}
+.navbar {
+    float: right;
+    padding: 0;
+}
+@media (max-width:767px){
+    .navbar {
+        margin-bottom: 30px;
+    }
 }
 
 .navbar-container {
@@ -136,16 +146,6 @@ i {
     padding-left: 0;
     padding-right: 0;
     width: 100%;
-}
-
-.navbar {
-    float: right;
-    padding: 0;
-}
-@media (max-width:767px){
-    .navbar {
-        margin-bottom: 30px;
-    }
 }
 
 /*---------------------------------------------------Navbar Scrolling (Main Nav)--*/
@@ -197,14 +197,14 @@ i {
 /*---------------------------------------------------Chevron--*/
 .chevron {
     color: #fff;
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     bottom: 0px;
     right: 40%;
 }
 .chevron:hover {
     color: #fff;
-    font-size: 55px;
+    font-size: 45px;
 }
 @media (min-width:768px){
    .chevron{
@@ -256,6 +256,8 @@ i {
     color: #fff;
     transition-duration: 0.3s;
 }
+
+@media ()
 
 .btn-submit {
     margin-top: 15px;
@@ -327,7 +329,7 @@ i {
 /*---------------------------------------------------About--*/
 .about-container {
     background-color: #548788;
-    padding: 70px 40px 50px 40px;
+    padding: 100px 40px 50px 40px;
 }
 
 @media (min-width: 576px) {
@@ -348,10 +350,6 @@ i {
 
 .about-header {
     text-align: center;
-}
-
-.about-text>h2 {
-    margin-bottom: 15px;
 }
 
 .about-text {
