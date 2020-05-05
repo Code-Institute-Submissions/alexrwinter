@@ -106,7 +106,7 @@ This site is hosted using GitHub Pages, which publishes the website directly fro
 <p>To clone this repository and run it locally:<br> 1. Click 'Clone or download' and copy the page ( https://github.com/sophie-apples/alexrwinter.git )<br>2. Create a new repository and run Gitpod, or navigate to the directory where you want this cloned directory to be made.<br>3. Open Git Bash and type <strong> git clone https://github.com/sophie-apples/alexrwinter.git </strong> into the terminal. Press enter and the clone will be created.<br>For more information, see https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository. </p>
 
 <h2>Testing</h2>
-<p>View testing document <a href="testing.md">here</a>.
+<p>View testing document <a href="testing.md">HERE</a>.
 
 <h2>Credits</h2>
 - Sound waves vector image by OpenClipart-Vectors from Pixabay<br>
