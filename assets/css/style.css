@@ -262,14 +262,6 @@ i {
     padding: 26px 10px;
 }
 
-.btn-submit:active,
-.btn-submit:focus,
-.btn-submit:visited {
-    color: #548788;
-    border-color: #548788;
-    background-color: #fff;
-}
-
 .btn-read-more {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
@@ -562,7 +554,8 @@ i {
     }
 }
 
-.contact-details {
+.contact-details,
+.contact-container p {
      color: #548788;
 }
 
