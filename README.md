@@ -31,7 +31,7 @@ The fundamental purpose of the website is to encourage potential collaborators a
 
 <h3>B2B Strategy</h3>
 <p>B2B rather than B2C: Visitors will not be purchasing anything on the website, and most likely not contacting for a quote on the first visit; instead they will be researching possible collaborators for a specific project, or looking for networking opportunities for future collaborations. They will want to use a service which is professional and reliable. They will want to see that this person is an expert in their field.
-  
+
 
 <h2>Scope/ Structure</h2>
 <p><strong>Sections & features to be included:</strong><br>
@@ -75,7 +75,7 @@ Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.co
 <p>The testimonials section builds on the previous two sections and features two glowing testimonials from past collaborators. This content is also responsive, shifting from horizontal on larger screens to vertical on smaller screens.</p>
 
 <h4>Contact</h4>
-<p>The contact section, which is linked to from various other points in the website, offers different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form, address and phone number (without the email) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
+<p>The contact section, which is linked to from various other points in the website, offers different ways of making contact, from a user-friendly contact form which is headed with a 'Let's work together' title and an invitaion to get in touch for different reasons, with a friendly and approachable tone. Beneath this is address, phone number and email. On smaller screens, this is collapsed into the contact form and phone number (without the email or address) for visual design reasons; also, the contact form will send an email so this address is not strictly necessary, but the presence of multiple contact methods on a larger screen adds to the user experience and visual design and the impression of contactability.</p>
 <p>Directly beneath the contact section is the footer with all of Alex Winter's social media links for extended contact options, and a way for cients to connect and network via social media including LinkedIn.</p>
 <hr>
 <p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">VIEW LIVE DEMO</a><p/>
