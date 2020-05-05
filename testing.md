@@ -30,56 +30,56 @@ The web page was opened in Mozilla Firefox, Google Chrome, Safari and Microsoft 
     <hr>
 
 <h3>Landing Page</h3>
-<p><strong>i. Chevron</strong> correctly aligned on all devices; when clicked, takes user to ‘about’ section: PASS<br> 
-<strong>ii. Contact button</strong> takes user to ‘contact section’; correctly aligned, text responsive sizing: PASS<br> 
-<strong>iii. IMDb button</strong> visible on all devices; when clicked takes user to personal IMDb page in a seperate tab: PASS<br> 
-<strong>iv. Text visibility</strong> text not obscured by background image; easy to read on all devices: PASS<br>
-<strong>v. Text animation</strong> works on all devices, cross-browser, and appropriate timing to read information as it appears: PASS<br>
-<strong>vi. Font sizing</strong> responsive: PASS
+<p><strong>i. Chevron</strong> correctly aligned on all devices; when clicked, takes user to ‘about’ section: <strong>PASS</strong><br> 
+<strong>ii. Contact button</strong> takes user to ‘contact section’; correctly aligned, text responsive sizing: <strong>PASS</strong><br> 
+<strong>iii. IMDb button</strong> visible on all devices; when clicked takes user to personal IMDb page in a seperate tab: <strong>PASS</strong><br> 
+<strong>iv. Text visibility</strong> text not obscured by background image; easy to read on all devices: <strong>PASS</strong><br>
+<strong>v. Text animation</strong> works on all devices, cross-browser, and appropriate timing to read information as it appears:  <strong>PASS</strong><br>
+<strong>vi. Font sizing</strong> responsive: <strong>PASS</strong>
 
 <h3>Navigation Bar</h3>
-<p><strong>i. Position</strong>  right hand side on medium and large devices; aligned with chevron; centred at top of screen on mobile devices: PASS<br>
-<strong>ii. Collapsible</strong> collapsible nav functions for mobile devices: PASS<br>
-<strong>iii. Doesn’t obscure content</strong>  spacing appropriate to not interact with website content: PASS<br>
-<strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green as user scrolls to each section: PASS
-<br><strong>v. Navigation links</strong>  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: <strong>FAIL: when nav link clicked, doesn't highlight on Edge and Chrome.</strong><br>
-<strong>vi.	Margins</strong> spacing around text appropriate: PASS<br>
-<strong>vii. Font sizing</strong> font size clear and responsive across devices: PASS</p>
+<p><strong>i. Position</strong>  right hand side on medium and large devices; aligned with chevron; centred at top of screen on mobile devices: <strong>PASS</strong><br>
+<strong>ii. Collapsible</strong> collapsible nav functions for mobile devices: <strong>PASS</strong><br>
+<strong>iii. Doesn’t obscure content</strong>  spacing appropriate to not interact with website content: <strong>PASS</strong><br>
+<strong>iv. ‘Scrollspy’</strong> highlights current section across devices, background changes colour from dark to light green as user scrolls to each section: <strong>PASS</strong>
+<br><strong>v. Navigation links</strong>  all links functional, IMDb link opens a new tab to personal IMDb page; links highlighted when clicked: <strong>PASS</strong><br>
+<strong>vi.	Margins</strong> spacing around text appropriate: <strong>PASS</strong><br>
+<strong>vii. Font sizing</strong> font size clear and responsive across devices:<strong>PASS</strong></p>
 
 <h3>About</h3>
-<p><strong>i. Alex photo (with button functionality/ animation)</strong> moves from right hand size to bottom of section and is hidden on mobile devices; image darkens when hovered; when clicked, takes user to personal IMDb page: PASS<br>
-<strong>ii. ‘Read more’ button</strong> appears on medium and small devices when second paragraph is hidden; when clicked, it expands the second paragraph; changes colour when hovered or clicked: PASS<br>
-<strong>iii. ‘Let’s work together’ button</strong> is visible on large devices and obscured along with paragraph on medium and small devices; appears when ‘read more’ is clicked; when clicked, takes the user to the contact section of the website; colour change when hovered or clicked: PASS<br>
-<strong>iv.	Paragraph sizes</strong> responsive: PASS<br>
-<strong>v. Font sizing </strong> responsive: PASS<br>
-    <strong>vi.	Margins</strong> responsive: <strong>FAIL: large top margin on Safari browser</strong><br>
-<strong>vii. Responsive layout</strong> responsive: PASS</p>
+<p><strong>i. Alex photo (with button functionality/ animation)</strong> moves from right hand size to bottom of section and is hidden on mobile devices; image darkens when hovered; when clicked, takes user to personal IMDb page: <strong>PASS</strong><br>
+<strong>ii. ‘Read more’ button</strong> appears on medium and small devices when second paragraph is hidden; when clicked, it expands the second paragraph; changes colour when hovered or clicked: <strong>PASS</strong><br>
+<strong>iii. ‘Let’s work together’ button</strong> is visible on large devices and obscured along with paragraph on medium and small devices; appears when ‘read more’ is clicked; when clicked, takes the user to the contact section of the website; colour change when hovered or clicked: <strong>PASS</strong><br>
+<strong>iv.	Paragraph sizes</strong> responsive:<strong>PASS</strong><br>
+<strong>v. Font sizing </strong> responsive:<strong>PASS</strong><br>
+    <strong>vi.	Margins</strong> responsive: <strong>PASS</strong><br>
+<strong>vii. Responsive layout</strong> responsive: <strong>PASS</strong></p>
 
 <h3>Services</h3>
-<p><strong>i. Layout</strong> responsive: PASS<br>
-<strong>ii. Font sizing</strong> responsive: PASS<br>
-<strong>iii. Margins</strong> responsive: PASS<br>
-<strong>iv. Responsive layout</strong> responsive: PASS</p>
+<p><strong>i. Layout</strong> responsive: <strong>PASS</strong><br>
+<strong>ii. Font sizing</strong> responsive: <strong>PASS</strong><br>
+<strong>iii. Margins</strong> responsive: <strong>PASS</strong><br>
+<strong>iv. Responsive layout</strong> responsive: <strong>PASS</strong></p>
 
 <h3>Projects</h3>
-<p><strong>i.	Images</strong> responsive: PASS<br>
-<strong>ii.	Images button functionality</strong> each takes user to the relevant film page on IMDb in a seperate tab: PASS<br>
-<strong>iii. Images animation on hover</strong> responsive: PASS<br>
-<strong>iv.	Margins</strong> responsive: PASS<br>
-<strong>v. Font sizing</strong> responsive: PASS<br>
-<strong>vi. Expand '...' button</strong> works to open and collapse extra content: PASS</p>
+<p><strong>i.	Images</strong> responsive:<strong>PASS</strong><br>
+<strong>ii.	Images button functionality</strong> each takes user to the relevant film page on IMDb in a seperate tab: <strong>PASS</strong><br>
+<strong>iii. Images animation on hover</strong> responsive: <strong>PASS</strong><br>
+<strong>iv.	Margins</strong> responsive: <strong>PASS</strong><br>
+<strong>v. Font sizing</strong> responsive: <strong>PASS</strong><br>
+<strong>vi. Expand '...' button</strong> works to open and collapse extra content: <strong>PASS</strong></p>
 
 <h3>Testimonials</h3>
-<p><strong>i. Logos for production companies</strong> appropriate sizing, visibility, margins, etc: PASS<br>
-<strong>ii.	Responsive layout</strong> responsive: PASS<br>
-<strong>iii. Font sizing</strong> responsive: PASS<br>
-<strong>iv.	Margins</strong> responsive: PASS</p>
+<p><strong>i. Logos for production companies</strong> appropriate sizing, visibility, margins, etc: <strong>PASS</strong><br>
+<strong>ii.	Responsive layout</strong> responsive: <strong>PASS</strong><br>
+<strong>iii. Font sizing</strong> responsive: <strong>PASS</strong><br>
+<strong>iv.	Margins</strong> responsive: <strong>PASS</strong></p>
 
 <h3>Contact</h3>
-<p><strong>i. Title font sizing, margins, centred text</strong> responsive: PASS<br>
-<strong>ii.	Contact form: i.</strong> responsive sizing responsive: PASS <strong>ii.</strong> margins responsive: PASS <strong>iii.</strong> functionality (required fields) working: PASS<br>
-<strong>iii. Social media links</strong> open in new tabs to correct pages: PASS<br>
-<strong>iv. Visibility of contact information</strong> all visible: PASS</p>
+<p><strong>i. Title font sizing, margins, centred text</strong> responsive: <strong>PASS</strong><br>
+<strong>ii.	Contact form: i.</strong> responsive sizing responsive: <strong>PASS</strong> <strong>ii.</strong> margins responsive: <strong>PASS</strong> <strong>iii.</strong> functionality (required fields) working: <strong>PASS</strong><br>
+<strong>iii. Social media links</strong> open in new tabs to correct pages: <strong>PASS</strong><br>
+<strong>iv. Visibility of contact information</strong> all visible: <strong>PASS</strong></p>
 
 <h2>Testing user stories</h2>
 
