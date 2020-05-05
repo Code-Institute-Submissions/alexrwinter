@@ -355,7 +355,7 @@ i {
 }
 
 .about-text {
-    margin: 30px 0;
+    margin: 0px 0px 30px 0;
 }
 @media (min-width: 992px) {
     .about-text > p {
@@ -437,7 +437,6 @@ i {
         font-size: 35px;
     }
 }
-
 
 /*---------------------------------------------------Projects--*/
 
@@ -550,6 +549,7 @@ i {
         font-weight: 500;
     }
 }
+
 /*---------------------------------------------------Contact--*/
 
 .contact-container {
@@ -615,18 +615,4 @@ footer {
     padding: 20px 0;
     margin: 0;
     text-align: center;
-}
-
-/*---------------------------------------------------Media Queries--*/
-
-@media (min-width: 576px) {
-
-}
-
-@media (min-width: 768px) {
-
-}
-
-@media (min-width: 992px) {
-
 }
