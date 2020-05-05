@@ -56,6 +56,7 @@ h2 { font-size: 35px;}
 }
 
 .service-text h2,
+.service-container h2,
 .contact-container h2 {
     color: #548788;
 }
@@ -80,6 +81,7 @@ p {
     color: #fff;
     font-size: 18px;
     font-weight: 200;
+    margin-top: 2rem;
 }
 
 @media (min-width: 768px) {  
@@ -99,7 +101,6 @@ p a:active {
     color: #fff;
     text-decoration: none;
     background-color: #155763;
-    
 }
 
 i {
@@ -126,10 +127,10 @@ i {
 }
 
 @media (min-width:992px){
-.block-divider-projects {
-    background-color: #548788;
-    height: 0.2px;
-    width: 60px;
+    .block-divider-projects {
+        background-color: #548788;
+        height: 0.2px;
+        width: 60px;
 }
 }
 
@@ -340,7 +341,6 @@ i {
 @media (max-width: 576px){
     .title-container {
         padding-bottom:0;
-        
     }
 }
 
@@ -354,56 +354,88 @@ i {
 
 .animation-button {
     animation-delay: 1.2s;
-
 }
 
 /*---------------------------------------------------About--*/
 .about-container {
     background-color: #548788;
-    padding: 40px 40px;
+    padding: 70px 40px 50px 40px;
+}
+
+@media (min-width: 576px) {
+    .about-container {
+        padding: 100px 120px 80px 50px;
+    }
+}
+@media (min-width: 768px) {
+    .about-container {
+        padding: 100px 160px 80px 50px;
+    }
+}  
+@media (min-width: 992px) {
+    .about-container {
+        padding: 150px 150px 150px 100px;
+    }
 }
 
 .about-text {
     margin: 30px 0;
 }
-
-@media (min-width: 576px) {
-    .about-container {
-        padding: 80px;
-    }
-}
-
 .alex-image {
-    padding-top: 60px;
     opacity: 0.7;
 }
 
 .alex-image-wrapper {
-    margin-top: 40px;
+    text-align: center;
 }
-
-@media (min-width: 992px){
-    .alex-image-wrapper {
-        margin-left: 20px;
-    }
+@media (min-width: 992px) {
+     .alex-image-wrapper {
+         padding: 100px 0px 0px 10px;
+     }
 }
-
 .alex-image:hover {
     opacity: 1;
     transition-duration: 1s;
 }
 
+.about-header {
+    text-align: center;
+}
+
 /*---------------------------------------------------Services--*/
 .services-container {
-    color: #548788;
     background-color: #fff;
-    padding: 70px 50px 30px 40px;
+    padding: 90px 50px 50px 40px;
+}
+
+@media (min-width: 768px) {
+    .services-container{
+        padding:110px 50px 60px 50px;
+    }
 }
 
 @media (min-width: 992px) {
     .services-container {
-        padding: 90px 80px 80px 80px;
-        padding-right:150px;
+        padding: 120px 150px 60px 80px;
+        
+    }
+}
+
+@media (min-width: 576px) {
+    .service-text{
+        font-size: 20px;
+}
+}
+
+@media (min-width: 768px) {
+    .service-text {
+        padding-bottom: 80px;
+    }
+}
+
+@media (min-width: 992px) {
+    .service-text {
+        padding: 0px 30px 80px 30px;
     }
 }
 
@@ -418,16 +450,11 @@ i {
 }
 
 @media (min-width: 576px) {
-    .service-text{
-        font-size: 20px;
-}
-}
-
-@media (min-width: 576px) {
     .service-text h2 {
         font-size: 35px;
     }
 }
+
 
 /*---------------------------------------------------Projects--*/
 
@@ -435,15 +462,14 @@ i {
     text-align: center;
     padding-bottom: 30px;
 }
+
 .projects-container {
     background-color: #155763;
     padding:80px 40px;
 }
-
-
 @media (min-width:768px){
     .projects-container {
-       padding-right: 150px;
+        padding:100px 150px 120px 40px;
     }
 }
 
@@ -473,19 +499,25 @@ i {
     opacity: 1;
 }
 
-.photo-label{
-    font-size: 12px;
-    text-align:center;
-    padding-top: 5px;
+.project-text {
+
+}
+.project-text > hr {
+    margin-bottom: 1rem;
 }
 
+.photo-label{
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    text-align:center;
+    padding-top: 10px;
+}
 @media (min-width: 768px) {  
  .photo-label {
-     padding-top: 20px;
      font-size: 15px;
  }
 }
-
 @media (min-width: 992px) {
     .photo-label {
         font-size: 20px;
@@ -493,7 +525,6 @@ i {
         padding-top: 35px;
     }
 }
-
 @media (min-width: 1200px) {
     .photo-label {
         font-size: 25px;
@@ -510,13 +541,13 @@ i {
 }
 .test-container {
     background-color: #548788;
-    padding: 60px 40px;
+    padding: 80px 40px 70px 40px;
     text-align: center;
 }
 
 @media (min-width:768px) {
     .test-container {
-        padding-right: 150px;
+        padding: 90px 150px 75px 40px;
     }
 }
 
@@ -551,7 +582,13 @@ i {
 
 .contact-container {
     text-align: center;
-    padding: 60px 40px;
+    padding: 70px 40px;
+}
+
+@media (min-width: 768px) {
+    .contact-container {
+        padding: 95px 40px 70px 40px;
+    }
 }
 
 .contact-container p {
