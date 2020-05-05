@@ -1,5 +1,5 @@
-![](assets/images/seagreenscrop.jpg)
-<h1 align="center">Alex R Winter: Post Production Sound</h1>
+![Image of website](assets/images/seagreenscrop.jpg)
+#Alex R Winter: Post Production Sound
 <hr>
 <p align="center"><a href="https://sophie-apples.github.io/alexrwinter/">VIEW LIVE DEMO</a><p/>
 <hr>
@@ -98,6 +98,7 @@ Wireframes for mobile, iPad and Desktop can be seen <a href="https://xd.adobe.co
 - <a href="https://validator.w3.org/">W3C Validation service</a> was used to check HTML.<br>
 - <a href="https://jigsaw.w3.org/css-validator/">W3C Markup validation services</a> used to check CSS.<br>
 
+notes on media queries in CSS file: I have chosen to leave media queries inline instead of putting them at the bottom of each section or the bottom of the document. I have decided to do it this way because I find it easier to see exactly how each element is being changed at each breakpoint and therefore easier to edit the code if necessary.
 
 <h2>Deployment</h2>
 <p>The site is developed in GitPod IDE, from where changes are committed and pushed to the master branch in the Github repository.
