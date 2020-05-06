@@ -100,7 +100,9 @@ ii.	**Responsive layout** changes from horizontal layout on medium and large scr
 
 iii. **Font sizing** responsive, clear to read: __PASS__ 
 
-iv.	**Margins** responsive and appropriate to screen size: __PASS__ 
+iv.	**Margins** responsive and appropriate to screen size: __PASS__
+
+v. **Read more button** works to expand and collapse extra content: __PASS__
 
 
 ### Contact
@@ -121,6 +123,7 @@ iv. **Visibility of contact information**all visible: __PASS__
 * Body i. white margin on the right hand side of the website on mobile devices corrected by changing .row to 0 margin
 * Navigation bar iv. During development, the bootstrap 'scrollspy' would not appear on the navigation bar. I changed this by giving a nav item the 'active' class. I then had problems with the scrollspy not appearing on the navbar, although it was being activated. This was solved by changing the nabvar from navbar light to navbar dark and then targetting '.navbar-dark .navbar-nav .nav-link.active' in my css code to the desired background-color. The last probelm I had with the navigation bar was that whilst it worked to take the user to the correct section, the wrong item on the navlist was being highlighted. This was solved by changing the data-spy data-offset value from 0 to 170 in the html code.
 * About vi. During testing, I realised that the About section when viewed on Safari had a very big top margin. I fixed this by removing an unnecessary 'wrapper' div from the alex image, switching the header to a seperate row, and targetting the columns themselves for padding and margins rather than the image itself. This solved the problem.
+* Testimonials v. The read more button wasn't functioning at screen sizes over 1700 dpi. This was solved by giving the button position:absolute and a z-index of 10.
 * I have noted this is my main README, but I also made a decision with my code to leave the media queries inline in the css for ease of changing specific details on the webpage at different breakpoints.
 
 
