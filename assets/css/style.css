@@ -298,6 +298,13 @@ i {
     border-color: #548788;
 }
 
+@media (max-width:720px){
+    .btn-projects {
+        margin-top: 20px;
+    }
+
+}
+
 /*---------------------------------------------------Home--*/
 
 .soundwaves-container{
