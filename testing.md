@@ -24,6 +24,10 @@ The web page was opened in [Mozilla Firefox](https://www.mozilla.org/en-US/firef
 _**Details below itemise elements and features to be tested with expected outcome, followed by a PASS or FAIL statement. Where an issue has been found, solution is stated after the 'FAIL' with a correction of 'PASS' if appropriate.**_
 
 -------------------------------------------------------------------------------------------------------------------
+### Body
+i. **Layout** no gaps at the edges of the page __PASS__
+
+ii. **Text and formatting** everything aligned correctly, font sizing consistent, styling consistent, chosen fonts working correctly and easy to read __PASS__
 
 ### Landing Page
 i.**Chevron** correctly aligned on all devices; when clicked, takes user to ‘about’ section: __PASS__ 
@@ -86,7 +90,7 @@ iv.	**Margins** responsive and appropriate to screen size: __PASS__
 
 v. **Font sizing** responsive, clear to read:  __PASS__ 
 
-vi. **Expand '...' button** works to open and collapse extra content, changes color from light to dark when lciked or hovered: __PASS__ 
+vi. **Expand '...' button** works to open and collapse extra content, changes color from light to dark when cliked or hovered: __PASS__ 
 
 
 ### Testimonials
@@ -110,6 +114,14 @@ c. functionality- required fields working __PASS__
 iii. **Social media links** open in new tabs to correct pages: __PASS__ 
 
 iv. **Visibility of contact information**all visible: __PASS__ 
+
+
+## Notes on problems found during testing and problems during development
+* Landing page i. the chevron did not align centrally with the header text. Corrected by changing the .row margin to 0. I also used position:absolute and percentage values rather than pixels to position it at different media breakpoints.
+* Body i. white margin on the right hand side of the website on mobile devices corrected by changing .row to 0 margin
+* Navigation bar iv. During development, the bootstrap 'scrollspy' would not appear on the navigation bar. I changed this by giving a nav item the 'active' class. I then had problems with the scrollspy not appearing on the navbar, although it was being activated. This was solved by changing the nabvar from navbar light to navbar dark and then targetting '.navbar-dark .navbar-nav .nav-link.active' in my css code to the desired background-color. The last probelm I had with the navigation bar was that whilst it worked to take the user to the correct section, the wrong item on the navlist was being highlighted. This was solved by changing the data-spy data-offset value from 0 to 170 in the html code.
+* About vi. During testing, I realised that the About section when viewed on Safari had a very big top margin. I fixed this by removing an unnecessary 'wrapper' div from the alex image, switching the header to a seperate row, and targetting the columns themselves for padding and margins rather than the image itself. This solved the problem.
+* I have noted this is my main README, but I also made a decision with my code to leave the media queries inline in the css for ease of changing specific details on the webpage at different breakpoints.
 
 
 ## Testing user stories
