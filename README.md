@@ -150,7 +150,7 @@ To clone this repository and run it locally:
 
 ## Testing
 
-<p>View testing document [HERE](testing.md)
+View testing document [HERE](testing.md)
 
 
 ## Credits
