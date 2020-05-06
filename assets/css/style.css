@@ -3,6 +3,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,700,800|Raleway:200,200i,300,300i,400,400i,500,500i,600,700,800&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 .body {
     font-family: 'Raleway', sans-serif;
     position: relative;
@@ -119,10 +123,6 @@ i {
 }
 
 /*---------------------------------------------------Body--*/
-html {
-    scroll-behavior: smooth;
-}
-
 .row {
     margin-right: 0px;
     margin-left: 0px;
