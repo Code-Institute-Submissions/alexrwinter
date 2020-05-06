@@ -108,7 +108,6 @@ Directly beneath the contact section is the footer with all of Alex Winter's soc
 
 ## Features to be implemented
 
-* Scroll: A smooth scroll effect between sections when navigation links are clicked. Javascript needed.
 * Background animation for homepage which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.
 
 
@@ -155,11 +154,12 @@ View testing document [HERE](testing.md)
 
 ## Credits
 
-* Sound waves vector image by OpenClipart-Vectors from Pixabay<
+* scroll behaviour tutorial from [W3Schools.com](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1)
+* Sound waves vector image by OpenClipart-Vectors from [Pixabay](https://pixabay.com/)
 * Hero image by Sophie Murray (created for website)
-* Images for project films without posters: Photo by Denise Jans on Unsplash
-* Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by JumpStart Productions
-* Image for film 'This Is Not Happening' by Picnic Films Pins and Needles Media (in association with)
-* Image for film 'Fractured' by Substantial Films, MM Productions, MEA Group
+* Images for project films without posters: Photo by Denise Jans on [Unsplash](https://unsplash.com/)
+* Images for films 'Tracks', 'Home for Chirstmas', 'Fractured' by [JumpStart Productions](http://jumpstartproductions.co.uk/)
+* Image for film 'This Is Not Happening' by [Picnic Films](http://www.picnicproductions.com/) Pins and Needles Media (in association with)
+* Image for film 'Fractured' by [Substantial Films](https://www.substantialfilms.co.uk/), MM Productions, MEA Group
 * Alex Portrait Image by [Tristan Sherfield](www.tristanpatricksherfield.com)
 * Copy written by Sophie Murray on behalf of Alex R Winter
