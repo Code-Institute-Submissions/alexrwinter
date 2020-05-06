@@ -108,6 +108,7 @@ Directly beneath the contact section is the footer with all of Alex Winter's soc
 
 ## Features to be implemented
 
+* Javascript for scroll property across browsers.
 * Background animation for homepage which responds to mouse movement (the sound waves will amplify in the area of the page where the mouse hovers) Javascript and/ or animation needed.
 
 
