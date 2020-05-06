@@ -119,6 +119,10 @@ i {
 }
 
 /*---------------------------------------------------Body--*/
+html {
+    scroll-behavior: smooth;
+}
+
 .row {
     margin-right: 0px;
     margin-left: 0px;
