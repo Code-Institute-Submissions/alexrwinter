@@ -279,21 +279,18 @@ i {
     border-color: #155763;
 }
 
-.btn-read-more-projects {
-    font-size: 30px;
-    color: #fff;
+.btn-projects {
     background-color: #548788;
-    margin: 10px;
-    padding: 0 15px;
+    margin: 10px 0px 15px 20px;
+    padding: 5px 15px 10px 15px;
     z-index: 10;
-    position:absolute;
+    position:relative;
 }
 
-.btn-read-more-projects:hover,
-.btn-read-more-projects:active {
-    text-decoration: none;
-    color: #fff;
+.btn-projects:hover,
+.btn-projects:active {
     background-color: #155763;
+    border-color: #548788;
 }
 
 /*---------------------------------------------------Home--*/
