@@ -29,6 +29,8 @@ i. **Layout** no gaps at the edges of the page __PASS__
 
 ii. **Text and formatting** everything aligned correctly, font sizing consistent, styling consistent, chosen fonts working correctly and easy to read __PASS__
 
+iii. **Scroll behaviour** functional on chrome, firefox, edge. __PASS__ *not functional on safari as it does not currently support the CSS scroll behaviour property.*
+
 ### Landing Page
 i.**Chevron** correctly aligned on all devices; when clicked, takes user to ‘about’ section: __PASS__ 
 
@@ -125,6 +127,7 @@ iv. **Visibility of contact information**all visible: __PASS__
 * About vi. During testing, I realised that the About section when viewed on Safari had a very big top margin. I fixed this by removing an unnecessary 'wrapper' div from the alex image, switching the header to a seperate row, and targetting the columns themselves for padding and margins rather than the image itself. This solved the problem.
 * Testimonials v. The read more button wasn't functioning at screen sizes over 1700 dpi. This was solved by giving the button position:absolute and a z-index of 10.
 * I have noted this is my main README, but I also made a decision with my code to leave the media queries inline in the css for ease of changing specific details on the webpage at different breakpoints.
+* Body iii. the scroll behaviour is not supported on safari. I would need javascript to correct this- not relevant to this project which focusses on HTML and CSS.
 
 
 ## Testing user stories
